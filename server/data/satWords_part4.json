@@ -1,0 +1,411 @@
+{
+  "words": [
+    {
+      "word": "jaded",
+      "definition": "tired, bored, or lacking enthusiasm after experiencing too much of something",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "After years of disappointment, she became jaded and lost her enthusiasm.",
+        "The jaded critic had seen so many films that nothing surprised him anymore."
+      ],
+      "startingLetter": "J",
+      "complexity": "medium"
+    },
+    {
+      "word": "jocular",
+      "definition": "fond of or characterized by joking; humorous and playful",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "His jocular personality made him popular at parties.",
+        "The jocular tone of his speech lightened the mood of the room."
+      ],
+      "startingLetter": "J",
+      "complexity": "high"
+    },
+    {
+      "word": "juxtapose",
+      "definition": "to place side by side for comparison or contrast",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The artist chose to juxtapose bright colors with dark backgrounds.",
+        "The essay juxtaposed ancient customs with modern practices."
+      ],
+      "startingLetter": "J",
+      "complexity": "high"
+    },
+    {
+      "word": "jejune",
+      "definition": "lacking interest, significance, or impact; dull and uninspiring",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The lecture was jejune and failed to capture the students' attention.",
+        "Critics dismissed the novel as jejune and superficial."
+      ],
+      "startingLetter": "J",
+      "complexity": "high"
+    },
+    {
+      "word": "jettison",
+      "definition": "to discard or throw away something unwanted",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The captain ordered the crew to jettison the cargo to lighten the sinking ship.",
+        "She decided to jettison her old habits and start fresh."
+      ],
+      "startingLetter": "J",
+      "complexity": "medium"
+    },
+    {
+      "word": "jingoism",
+      "definition": "excessive patriotism and aggressive foreign policy",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The politician's jingoism worried those who feared war.",
+        "Jingoism often leads to unnecessary conflicts with other nations."
+      ],
+      "startingLetter": "J",
+      "complexity": "high"
+    },
+    {
+      "word": "judicious",
+      "definition": "having or showing good judgment; wise and sensible",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "A judicious use of resources helped the company survive the recession.",
+        "The judge was known for making judicious decisions."
+      ],
+      "startingLetter": "J",
+      "complexity": "medium"
+    },
+    {
+      "word": "jovial",
+      "definition": "cheerful, friendly, and good-humored",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The jovial host made everyone feel welcome at the party.",
+        "Despite the challenges, he maintained a jovial attitude."
+      ],
+      "startingLetter": "J",
+      "complexity": "medium"
+    },
+    {
+      "word": "jaunty",
+      "definition": "having a cheerful, lively, and self-confident manner",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "He walked with a jaunty step after receiving the good news.",
+        "Her jaunty hat added a touch of playfulness to her outfit."
+      ],
+      "startingLetter": "J",
+      "complexity": "medium"
+    },
+    {
+      "word": "jeopardize",
+      "definition": "to put at risk of harm, loss, or failure",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "His reckless behavior could jeopardize the entire project.",
+        "She refused to jeopardize her career for short-term gains."
+      ],
+      "startingLetter": "J",
+      "complexity": "medium"
+    },
+    {
+      "word": "ken",
+      "definition": "one's range of knowledge, understanding, or sight",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "Advanced physics is beyond the ken of most people.",
+        "Such matters are outside my ken."
+      ],
+      "startingLetter": "K",
+      "complexity": "high"
+    },
+    {
+      "word": "kindle",
+      "definition": "to light or set on fire; to arouse or inspire feelings",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The speaker's words kindled hope in the hearts of the audience.",
+        "They kindled a fire to keep warm through the night."
+      ],
+      "startingLetter": "K",
+      "complexity": "medium"
+    },
+    {
+      "word": "kinetic",
+      "definition": "relating to or resulting from motion",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The roller coaster converts potential energy into kinetic energy.",
+        "The kinetic sculpture moved gracefully in the wind."
+      ],
+      "startingLetter": "K",
+      "complexity": "medium"
+    },
+    {
+      "word": "kinship",
+      "definition": "family relationship or connection by blood, marriage, or adoption",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "She felt a strong kinship with her fellow volunteers.",
+        "The kinship between the two communities was evident."
+      ],
+      "startingLetter": "K",
+      "complexity": "medium"
+    },
+    {
+      "word": "knave",
+      "definition": "a dishonest or unscrupulous person; a deceitful scoundrel",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The knave cheated the villagers out of their savings.",
+        "In the play, the knave was eventually exposed and punished."
+      ],
+      "startingLetter": "K",
+      "complexity": "medium"
+    },
+    {
+      "word": "knell",
+      "definition": "the sound of a bell rung slowly to announce a death; a signal of the end",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The death knell sounded across the village.",
+        "The company's bankruptcy was the knell of an era."
+      ],
+      "startingLetter": "K",
+      "complexity": "high"
+    },
+    {
+      "word": "kudos",
+      "definition": "praise and honor received for an achievement",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "She received kudos for her outstanding performance.",
+        "Kudos to the team for completing the project ahead of schedule."
+      ],
+      "startingLetter": "K",
+      "complexity": "simple"
+    },
+    {
+      "word": "kismet",
+      "definition": "destiny or fate",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "They believed their meeting was kismet.",
+        "He accepted his situation as kismet and moved forward."
+      ],
+      "startingLetter": "K",
+      "complexity": "medium"
+    },
+    {
+      "word": "quagmire",
+      "definition": "a difficult or complicated situation; soft, wet, muddy ground",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The company found itself in a financial quagmire.",
+        "The heavy rain turned the field into a quagmire."
+      ],
+      "startingLetter": "Q",
+      "complexity": "medium"
+    },
+    {
+      "word": "quandary",
+      "definition": "a state of uncertainty or perplexity about what to do",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "She was in a quandary about which job offer to accept.",
+        "The ethical quandary left him unable to make a decision."
+      ],
+      "startingLetter": "Q",
+      "complexity": "medium"
+    },
+    {
+      "word": "quell",
+      "definition": "to suppress or put an end to; to calm or pacify",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The police were called to quell the disturbance.",
+        "She took deep breaths to quell her rising anxiety."
+      ],
+      "startingLetter": "Q",
+      "complexity": "medium"
+    },
+    {
+      "word": "quintessential",
+      "definition": "representing the most perfect or typical example of something",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Paris is the quintessential romantic city.",
+        "He was the quintessential gentleman in every way."
+      ],
+      "startingLetter": "Q",
+      "complexity": "medium"
+    },
+    {
+      "word": "querulous",
+      "definition": "prone to complaining; whiny and peevish",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The querulous patient complained about everything.",
+        "Her querulous tone made it difficult to have a conversation."
+      ],
+      "startingLetter": "Q",
+      "complexity": "high"
+    },
+    {
+      "word": "quixotic",
+      "definition": "exceedingly idealistic; unrealistic and impractical",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "His quixotic quest to solve world hunger seemed impossible.",
+        "The plan was dismissed as quixotic by the board."
+      ],
+      "startingLetter": "Q",
+      "complexity": "high"
+    },
+    {
+      "word": "quiescent",
+      "definition": "in a state of inactivity or dormancy; quiet and still",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The volcano remained quiescent for centuries.",
+        "The economy was quiescent during the holiday season."
+      ],
+      "startingLetter": "Q",
+      "complexity": "high"
+    },
+    {
+      "word": "xenophobia",
+      "definition": "fear or hatred of foreigners or strangers",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "Xenophobia can lead to discrimination against immigrants.",
+        "The politician's speech was criticized for promoting xenophobia."
+      ],
+      "startingLetter": "X",
+      "complexity": "medium"
+    },
+    {
+      "word": "xenial",
+      "definition": "hospitable; relating to the friendly relationship between host and guest",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The xenial atmosphere made visitors feel at home.",
+        "Ancient Greeks valued xenial customs and hospitality."
+      ],
+      "startingLetter": "X",
+      "complexity": "high"
+    },
+    {
+      "word": "xeric",
+      "definition": "characterized by extremely dry conditions; adapted to drought",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Cacti thrive in xeric environments.",
+        "The xeric landscape required drought-resistant plants."
+      ],
+      "startingLetter": "X",
+      "complexity": "high"
+    },
+    {
+      "word": "yield",
+      "definition": "to produce or provide; to give way or surrender",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The apple trees yield a rich harvest every autumn.",
+        "The driver must yield to pedestrians at the crosswalk."
+      ],
+      "startingLetter": "Y",
+      "complexity": "simple"
+    },
+    {
+      "word": "yearn",
+      "definition": "to have an intense feeling of longing for something",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "She yearned for a chance to travel the world.",
+        "He yearned to see his family again after years abroad."
+      ],
+      "startingLetter": "Y",
+      "complexity": "medium"
+    },
+    {
+      "word": "yoke",
+      "definition": "to join or link together; a wooden frame joining two animals",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The farmers yoked the oxen together for plowing.",
+        "The treaty yoked the two nations in a military alliance."
+      ],
+      "startingLetter": "Y",
+      "complexity": "medium"
+    },
+    {
+      "word": "yen",
+      "definition": "a strong desire or craving for something",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "She had a yen for adventure and excitement.",
+        "His yen for chocolate was hard to resist."
+      ],
+      "startingLetter": "Y",
+      "complexity": "medium"
+    },
+    {
+      "word": "zeal",
+      "definition": "great energy or enthusiasm in pursuit of a cause or goal",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His zeal for environmental conservation inspired others.",
+        "She pursued her studies with remarkable zeal."
+      ],
+      "startingLetter": "Z",
+      "complexity": "medium"
+    },
+    {
+      "word": "zenith",
+      "definition": "the highest point; the peak of achievement or success",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "Her career reached its zenith when she won the international award.",
+        "The sun was at its zenith, directly overhead."
+      ],
+      "startingLetter": "Z",
+      "complexity": "medium"
+    },
+    {
+      "word": "zephyr",
+      "definition": "a soft, gentle breeze",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "A zephyr cooled the warm summer evening.",
+        "The zephyr carried the scent of flowers through the garden."
+      ],
+      "startingLetter": "Z",
+      "complexity": "high"
+    },
+    {
+      "word": "zealous",
+      "definition": "showing great enthusiasm and devotion",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The zealous volunteer worked tirelessly for the cause.",
+        "He was a zealous advocate for human rights."
+      ],
+      "startingLetter": "Z",
+      "complexity": "medium"
+    },
+    {
+      "word": "zest",
+      "definition": "great enthusiasm, energy, and enjoyment",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "She approached life with zest and optimism.",
+        "The children played with zest and laughter."
+      ],
+      "startingLetter": "Z",
+      "complexity": "simple"
+    }
+  ]
+}
