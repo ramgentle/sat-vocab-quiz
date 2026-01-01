@@ -6,7 +6,8 @@ const {
   getRandomWords,
   getWordCount,
   getWordCountByLetter,
-  getLetterStats
+  getLetterStats,
+  getComplexityStats
 } = require('../controllers/wordController');
 
 const router = express.Router();
@@ -15,6 +16,7 @@ router.get('/', getAllWords);
 router.get('/random', getRandomWords);
 router.get('/count', getWordCount);
 router.get('/stats/letters', getLetterStats);
+router.get('/stats/complexity', getComplexityStats);
 router.get('/letter/:letter', getWordsByLetter);
 router.get('/count/:letter', getWordCountByLetter);
 router.get('/:id', getWordById);

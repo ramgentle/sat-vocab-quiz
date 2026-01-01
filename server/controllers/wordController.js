@@ -91,6 +91,15 @@ const getLetterStats = async (req, res) => {
   }
 };
 
+const getComplexityStats = async (req, res) => {
+  try {
+    const stats = localStore.getComplexityStats();
+    res.json(stats);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
 module.exports = {
   getAllWords,
   getWordById,
@@ -98,5 +107,6 @@ module.exports = {
   getRandomWords,
   getWordCount,
   getWordCountByLetter,
-  getLetterStats
+  getLetterStats,
+  getComplexityStats
 };

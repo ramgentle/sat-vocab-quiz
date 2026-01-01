@@ -80,6 +80,31 @@ function getWordsByLetter(letter) {
   return words.filter(w => w.startingLetter === letter.toUpperCase());
 }
 
+function getWordsByComplexity(complexity) {
+  if (!complexity || complexity === 'all') return words;
+  return words.filter(w => w.complexity === complexity);
+}
+
+function getWordsFiltered(letter = null, complexity = null) {
+  let filtered = words;
+  if (letter) {
+    filtered = filtered.filter(w => w.startingLetter === letter.toUpperCase());
+  }
+  if (complexity && complexity !== 'all') {
+    filtered = filtered.filter(w => w.complexity === complexity);
+  }
+  return filtered;
+}
+
+function getComplexityStats() {
+  const stats = { simple: 0, medium: 0, high: 0 };
+  words.forEach(word => {
+    const c = word.complexity || 'medium';
+    stats[c] = (stats[c] || 0) + 1;
+  });
+  return stats;
+}
+
 function getRandomWords(count, letter = null) {
   let pool = letter ? getWordsByLetter(letter) : words;
   const shuffled = [...pool].sort(() => Math.random() - 0.5);
@@ -168,6 +193,9 @@ module.exports = {
   getAllWords,
   getWordById,
   getWordsByLetter,
+  getWordsByComplexity,
+  getWordsFiltered,
+  getComplexityStats,
   getRandomWords,
   getWordCount,
   getLetterStats,

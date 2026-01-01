@@ -3,26 +3,28 @@ const { shuffleArray } = require('../utils/shuffle');
 
 const startQuiz = async (req, res) => {
   try {
-    const { wordCount, letterFilter, mode = 'quiz' } = req.body;
+    const { wordCount, letterFilter, complexityFilter, mode = 'quiz' } = req.body;
     const userId = req.user?._id || 'local-user';
 
-    const validCounts = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
-    if (!validCounts.includes(wordCount)) {
+    // Validate word count - must be positive integer
+    if (!wordCount || wordCount < 1 || !Number.isInteger(wordCount)) {
       return res.status(400).json({ error: 'Invalid word count' });
     }
 
-    const availableWords = letterFilter 
-      ? localStore.getWordsByLetter(letterFilter)
-      : localStore.getAllWords();
+    // Get words filtered by letter and complexity
+    const availableWords = localStore.getWordsFiltered(letterFilter, complexityFilter);
 
-    if (availableWords.length < wordCount) {
+    // Use the minimum of requested count and available words
+    const actualWordCount = Math.min(wordCount, availableWords.length);
+
+    if (actualWordCount < 4) {
       return res.status(400).json({
-        error: `Not enough words available. Found ${availableWords.length}, need ${wordCount}`
+        error: `Need at least 4 words for quiz options. Found ${availableWords.length}`
       });
     }
 
     const shuffledWords = shuffleArray(availableWords);
-    const selectedWords = shuffledWords.slice(0, wordCount);
+    const selectedWords = shuffledWords.slice(0, actualWordCount);
 
     const questions = selectedWords.map((correctWord, index) => {
       const wrongOptions = shuffledWords
@@ -47,15 +49,16 @@ const startQuiz = async (req, res) => {
     const session = localStore.createQuizSession({
       userId,
       mode,
-      wordCount,
+      wordCount: actualWordCount,
       letterFilter: letterFilter?.toUpperCase() || null,
+      complexityFilter: complexityFilter || null,
       words: selectedWords.map(w => ({ wordId: w._id, word: w }))
     });
 
     res.json({
       sessionId: session._id,
       questions,
-      totalQuestions: wordCount
+      totalQuestions: actualWordCount
     });
   } catch (error) {
     res.status(500).json({ error: error.message });

@@ -1,10 +1,11 @@
 import api from './api';
 
 export const quizService = {
-  startQuiz: async (wordCount, letterFilter = null, mode = 'quiz') => {
+  startQuiz: async (wordCount, letterFilter = null, complexityFilter = null, mode = 'quiz') => {
     const response = await api.post('/quiz/start', {
       wordCount,
       letterFilter,
+      complexityFilter,
       mode
     });
     return response.data;

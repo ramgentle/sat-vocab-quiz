@@ -34,11 +34,25 @@ function importFromExcel(excelPath) {
     const definition = row.definition || row.Definition || row.DEFINITION || row.Meaning || row.meaning || '';
     const partOfSpeech = row.partOfSpeech || row.PartOfSpeech || row['Part of Speech'] || row['Word Type'] || row.pos || 'noun';
     const sentencesRaw = row.sentences || row.Sentences || row.SENTENCES || row.example || row.Example || row['Example Sentence'] || '';
+    const complexityRaw = row.complexity || row.Complexity || row['Complexity Level'] || row.difficulty || row.Difficulty || row.level || row.Level || '';
 
     // Parse sentences (split by | or ; if multiple)
     let sentences = [];
     if (sentencesRaw) {
       sentences = sentencesRaw.split(/[|;]/).map(s => s.trim()).filter(s => s);
+    }
+
+    // Normalize complexity level
+    let complexity = 'medium';
+    if (complexityRaw) {
+      const c = complexityRaw.toString().toLowerCase().trim();
+      if (c.includes('simple') || c.includes('easy') || c.includes('low') || c === '1') {
+        complexity = 'simple';
+      } else if (c.includes('medium') || c.includes('moderate') || c === '2') {
+        complexity = 'medium';
+      } else if (c.includes('high') || c.includes('hard') || c.includes('difficult') || c.includes('complex') || c === '3') {
+        complexity = 'high';
+      }
     }
 
     // Get starting letter
@@ -49,7 +63,8 @@ function importFromExcel(excelPath) {
       definition: definition.trim(),
       partOfSpeech: partOfSpeech.toLowerCase().trim(),
       sentences: sentences.length > 0 ? sentences : [`The word "${word}" means ${definition}`],
-      startingLetter
+      startingLetter,
+      complexity
     };
   }).filter(w => w.word && w.definition); // Filter out empty rows
 

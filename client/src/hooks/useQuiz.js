@@ -14,11 +14,11 @@ const initialState = {
 export function useQuiz() {
   const [state, setState] = useState(initialState);
 
-  const startQuiz = useCallback(async (wordCount, letterFilter) => {
+  const startQuiz = useCallback(async (wordCount, letterFilter, complexityFilter) => {
     setState(prev => ({ ...prev, status: 'loading', error: null }));
 
     try {
-      const data = await quizService.startQuiz(wordCount, letterFilter);
+      const data = await quizService.startQuiz(wordCount, letterFilter, complexityFilter);
       setState(prev => ({
         ...prev,
         status: 'active',
