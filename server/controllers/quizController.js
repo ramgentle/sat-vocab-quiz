@@ -27,13 +27,13 @@ const startQuiz = async (req, res) => {
     const selectedWords = shuffledWords.slice(0, actualWordCount);
 
     const questions = selectedWords.map((correctWord, index) => {
-      const wrongOptions = shuffledWords
-        .filter(w => w._id !== correctWord._id)
-        .slice(0, 3);
+      // Get all words except the correct one, then shuffle and pick 3 random wrong options
+      const otherWords = availableWords.filter(w => w._id !== correctWord._id);
+      const randomWrongOptions = shuffleArray(otherWords).slice(0, 3);
 
       const allOptions = shuffleArray([
         { word: correctWord.word, isCorrect: true },
-        ...wrongOptions.map(w => ({ word: w.word, isCorrect: false }))
+        ...randomWrongOptions.map(w => ({ word: w.word, isCorrect: false }))
       ]);
 
       return {
