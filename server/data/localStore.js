@@ -86,7 +86,8 @@ function getWordsByComplexity(complexity) {
 }
 
 function getWordsFiltered(letter = null, complexity = null) {
-  let filtered = words;
+  // Always create a new array copy to prevent mutation issues
+  let filtered = [...words];
   if (letter) {
     filtered = filtered.filter(w => w.startingLetter === letter.toUpperCase());
   }
