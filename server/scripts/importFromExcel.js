@@ -31,9 +31,9 @@ function importFromExcel(excelPath) {
   // Transform to our format
   const words = rawData.map((row, index) => {
     const word = row.word || row.Word || row.WORD || '';
-    const definition = row.definition || row.Definition || row.DEFINITION || '';
-    const partOfSpeech = row.partOfSpeech || row.PartOfSpeech || row['Part of Speech'] || row.pos || 'noun';
-    const sentencesRaw = row.sentences || row.Sentences || row.SENTENCES || row.example || row.Example || '';
+    const definition = row.definition || row.Definition || row.DEFINITION || row.Meaning || row.meaning || '';
+    const partOfSpeech = row.partOfSpeech || row.PartOfSpeech || row['Part of Speech'] || row['Word Type'] || row.pos || 'noun';
+    const sentencesRaw = row.sentences || row.Sentences || row.SENTENCES || row.example || row.Example || row['Example Sentence'] || '';
 
     // Parse sentences (split by | or ; if multiple)
     let sentences = [];

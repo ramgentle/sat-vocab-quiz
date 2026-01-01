@@ -1,1887 +1,2704 @@
 {
   "words": [
     {
-      "word": "galvanize",
-      "definition": "to stimulate or shock into action",
-      "partOfSpeech": "verb",
-      "sentences": ["The speech galvanized the crowd into action.", "Her words galvanized support for the cause."],
+      "word": "duplicity",
+      "definition": "crafty dishonesty",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of duplicity on society."
+      ],
+      "startingLetter": "D"
+    },
+    {
+      "word": "duress",
+      "definition": "hardship, threat",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of duress on society."
+      ],
+      "startingLetter": "D"
+    },
+    {
+      "word": "dynamic",
+      "definition": "actively changing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her dynamic attitude impressed everyone in the room."
+      ],
+      "startingLetter": "D"
+    },
+    {
+      "word": "ebullient",
+      "definition": "extremely lively, enthusiastic",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ebullient response surprised even the critics."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "eclectic",
+      "definition": "consisting of a diverse variety of elements",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The eclectic student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "ecstatic",
+      "definition": "intensely and overpoweringly happy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ecstatic student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "edict",
+      "definition": "an order, decree",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked edict."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "efface",
+      "definition": "to wipe out, obliterate, rub away",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to efface the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "effervescent",
+      "definition": "bubbly, lively",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The effervescent student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "effrontery",
+      "definition": "impudence, nerve, insolence",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how effrontery can affect an entire community."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "effulgent",
+      "definition": "radiant, splendorous",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a effulgent act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "egregious",
+      "definition": "extremely bad",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a egregious act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "elaborate",
+      "definition": "complex, detailed, intricate",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The elaborate response surprised even the critics."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "elated",
+      "definition": "overjoyed, thrilled",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The elated response surprised even the critics."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "elegy",
+      "definition": "a speech given in honor of a dead person",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how elegy can affect an entire community."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "elicit",
+      "definition": "to bring forth, draw out, evoke",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to elicit the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "eloquent",
+      "definition": "expressive, articulate, moving",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a eloquent act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "elucidate",
+      "definition": "to clarify, explain",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to elucidate the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "elude",
+      "definition": "to evade, escape",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to elude the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "emaciated",
+      "definition": "very thin, enfeebled looking",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her emaciated attitude impressed everyone in the room."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "emend",
+      "definition": "to correct or revise a written text",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to emend their strategy after the loss."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "emollient",
+      "definition": "soothing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The emollient student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "emote",
+      "definition": "to express emotion",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to emote the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "empathy",
+      "definition": "sensitivity to another’s feelings as if they were one’s own",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of empathy on society."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "emulate",
+      "definition": "to imitate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to emulate the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "enamor",
+      "definition": "to ﬁll with love, fascinate, usually used in passive form followed by “of” or",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to enamor the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "encore",
+      "definition": "the audience’s demand for a repeat performance; also the artist’s",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked encore."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "encumber",
+      "definition": "to weigh down, burden",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often encumber students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "enervate",
+      "definition": "to weaken, exhaust",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often enervate students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "enfranchise",
+      "definition": "to grant the vote to",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to enfranchise the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "engender",
+      "definition": "to bring about, create, generate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to engender the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "enigmatic",
+      "definition": "mystifying, cryptic",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The enigmatic student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "enmity",
+      "definition": "ill will, hatred, hostility",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked enmity."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "ennui",
+      "definition": "boredom, weariness",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of ennui on society."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "entail",
+      "definition": "to include as a necessary step",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to entail the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "enthrall",
+      "definition": "to charm, hold spellbound",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often enthrall students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "ephemeral",
+      "definition": "short-lived, ﬂeeting",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ephemeral student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "epistolary",
+      "definition": "relating to or contained in letters",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a epistolary act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "epitome",
+      "definition": "a perfect example, embodiment",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of epitome in difficult times."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "equanimity",
+      "definition": "composure",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how equanimity can affect an entire community."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "equivocal",
+      "definition": "ambiguous, uncertain, undecided",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a equivocal act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "erudite",
+      "definition": "learned",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her erudite attitude impressed everyone in the room."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "eschew",
+      "definition": "to shun, avoid",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to eschew the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "esoteric",
+      "definition": "understood by only a select few",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The esoteric student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "espouse",
+      "definition": "to take up as a cause, support",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to espouse their strategy after the loss."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "ethereal",
+      "definition": "heavenly, exceptionally delicate or reﬁned",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her ethereal attitude impressed everyone in the room."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "etymology",
+      "definition": "the history of words, their origin and development",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how etymology can affect an entire community."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "evanescent",
+      "definition": "ﬂeeting, momentary",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The evanescent response surprised even the critics."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "evince",
+      "definition": "to show, reveal",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to evince the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exacerbate",
+      "definition": "to make more violent, intense",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to exacerbate the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exalt",
+      "definition": "to glorify, praise",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to exalt the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exasperate",
+      "definition": "to irritate, irk",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to exasperate the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "excavate",
+      "definition": "to dig out of the ground and remove",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to excavate the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exculpate",
+      "definition": "to free from guilt or blame, exonerate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often exculpate students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "excursion",
+      "definition": "a trip or outing",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how excursion can affect an entire community."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "execrable",
+      "definition": "loathsome, detestable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her execrable attitude impressed everyone in the room."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exhort",
+      "definition": "to urge, prod, spur",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often exhort students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exigent",
+      "definition": "urgent, critical",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a exigent act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exonerate",
+      "definition": "to free from guilt or blame, exculpate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often exonerate students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exorbitant",
+      "definition": "excessive",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a exorbitant act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "expedient",
+      "definition": "advisable, advantageous, serving one’s self-interest",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The expedient student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "expiate",
+      "definition": "to make amends for, atone",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to expiate the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "expunge",
+      "definition": "to obliterate, eradicate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often expunge students who show exceptional effort."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "expurgate",
+      "definition": "to remove offensive or incorrect parts, usually of a book",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to expurgate the outdated law."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "extant",
+      "definition": "existing, not destroyed or lost",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her extant attitude impressed everyone in the room."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "extol",
+      "definition": "to praise, revere",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to extol the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "extraneous",
+      "definition": "irrelevant, extra, not necessary",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a extraneous act that changed the course of history."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "extricate",
+      "definition": "to disentangle",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to extricate their strategy after the loss."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "exult",
+      "definition": "to rejoice",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to exult the problem before it grew worse."
+      ],
+      "startingLetter": "E"
+    },
+    {
+      "word": "fabricate",
+      "definition": "to make up, invent",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to fabricate the outdated law."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fallacious",
+      "definition": "incorrect, misleading",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her fallacious attitude impressed everyone in the room."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fastidious",
+      "definition": "meticulous, demanding, having high and often unattainable standards",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The fastidious student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fathom",
+      "definition": "to understand, comprehend",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to fathom the problem before it grew worse."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fecund",
+      "definition": "fruitful, fertile",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The fecund student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "feral",
+      "definition": "wild, savage",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a feral act that changed the course of history."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fervent",
+      "definition": "ardent, passionate",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The fervent response surprised even the critics."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fetid",
+      "definition": "having a foul odor",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her fetid attitude impressed everyone in the room."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fetter",
+      "definition": "to chain, restrain",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to fetter their strategy after the loss."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "foil",
+      "definition": "to thwart, frustrate, defeat",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to foil the outdated law."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "forage",
+      "definition": "to graze, rummage for food",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to forage the outdated law."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "forbearance",
+      "definition": "patience, restraint, toleration",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked forbearance."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "forestall",
+      "definition": "to prevent, thwart, delay",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often forestall students who show exceptional effort."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "forlorn",
+      "definition": "lonely, abandoned, hopeless",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The forlorn response surprised even the critics."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "forsake",
+      "definition": "to give up, renounce",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to forsake the problem before it grew worse."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fortitude",
+      "definition": "strength, guts",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of fortitude in difficult times."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fortuitous",
+      "definition": "happening by chance, often lucky or fortunate",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The fortuitous student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "forum",
+      "definition": "a medium for lecture or discussion",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how forum can affect an entire community."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "foster",
+      "definition": "to stimulate, promote, encourage",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often foster students who show exceptional effort."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fractious",
+      "definition": "troublesome or irritable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The fractious student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "fraught",
+      "definition": "(usually used with “with”) ﬁlled or accompanied with",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The fraught student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "frenetic",
+      "definition": "frenzied, hectic, frantic",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her frenetic attitude impressed everyone in the room."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "frivolous",
+      "definition": "of little importance, triﬂing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her frivolous attitude impressed everyone in the room."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "frugal",
+      "definition": "thrifty, economical",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The frugal student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "F"
+    },
+    {
+      "word": "garish",
+      "definition": "gaudy, in bad taste",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The garish student volunteered to help others despite the risk."
+      ],
       "startingLetter": "G"
     },
     {
       "word": "garrulous",
-      "definition": "excessively talkative, especially about trivial matters",
-      "partOfSpeech": "adjective",
-      "sentences": ["The garrulous neighbor talked for hours about nothing.", "He became more garrulous after drinking coffee."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "gauche",
-      "definition": "lacking social grace or awareness; awkward",
-      "partOfSpeech": "adjective",
-      "sentences": ["His gauche behavior embarrassed everyone at dinner.", "She made a gauche comment about the host's weight."],
+      "definition": "talkative, wordy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The garrulous student volunteered to help others despite the risk."
+      ],
       "startingLetter": "G"
     },
     {
       "word": "genial",
-      "definition": "friendly and cheerful in manner",
-      "partOfSpeech": "adjective",
-      "sentences": ["The genial host made everyone feel welcome.", "His genial smile put the nervous guests at ease."],
+      "definition": "friendly, affable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her genial attitude impressed everyone in the room."
+      ],
       "startingLetter": "G"
     },
     {
-      "word": "germane",
-      "definition": "relevant and appropriate to the matter at hand",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her comments were not germane to the discussion.", "Please keep your questions germane to the topic."],
+      "word": "gluttony",
+      "definition": "overindulgence in food or drink",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked gluttony."
+      ],
       "startingLetter": "G"
     },
     {
-      "word": "glut",
-      "definition": "an excessive supply or amount",
-      "partOfSpeech": "noun",
-      "sentences": ["There was a glut of oil on the market.", "The glut of applicants made hiring difficult."],
+      "word": "goad",
+      "definition": "to urge, spur, incite to action",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to goad their strategy after the loss."
+      ],
+      "startingLetter": "G"
+    },
+    {
+      "word": "gourmand",
+      "definition": "someone fond of eating and drinking",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked gourmand."
+      ],
+      "startingLetter": "G"
+    },
+    {
+      "word": "grandiloquence",
+      "definition": "lofty, pompous language",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked grandiloquence."
+      ],
+      "startingLetter": "G"
+    },
+    {
+      "word": "grandiose",
+      "definition": "on a magniﬁcent or exaggerated scale",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her grandiose attitude impressed everyone in the room."
+      ],
       "startingLetter": "G"
     },
     {
       "word": "gratuitous",
-      "definition": "given or done without good reason; unnecessary",
-      "partOfSpeech": "adjective",
-      "sentences": ["The movie contained gratuitous violence.", "His gratuitous insults offended everyone."],
+      "definition": "uncalled for, unwarranted",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The gratuitous response surprised even the critics."
+      ],
       "startingLetter": "G"
     },
     {
       "word": "gregarious",
-      "definition": "fond of company; sociable",
-      "partOfSpeech": "adjective",
-      "sentences": ["She was gregarious and loved attending parties.", "The gregarious puppy greeted every visitor warmly."],
+      "definition": "drawn to the company of others, sociable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The gregarious response surprised even the critics."
+      ],
+      "startingLetter": "G"
+    },
+    {
+      "word": "grievous",
+      "definition": "injurious, hurtful; serious or grave in nature",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The grievous response surprised even the critics."
+      ],
       "startingLetter": "G"
     },
     {
       "word": "guile",
-      "definition": "sly or cunning intelligence",
-      "partOfSpeech": "noun",
-      "sentences": ["He used guile to trick his opponents.", "She lacked the guile necessary for politics."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "gullible",
-      "definition": "easily persuaded to believe something",
-      "partOfSpeech": "adjective",
-      "sentences": ["The gullible tourist fell for the scam.", "Don't be so gullible; that story is obviously false."],
+      "definition": "deceitful, cunning, sly behavior",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of guile on society."
+      ],
       "startingLetter": "G"
     },
     {
       "word": "hackneyed",
-      "definition": "lacking originality; overused",
-      "partOfSpeech": "adjective",
-      "sentences": ["The writer relied on hackneyed phrases.", "His hackneyed jokes failed to amuse the audience."],
+      "definition": "unoriginal, trite",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her hackneyed attitude impressed everyone in the room."
+      ],
       "startingLetter": "H"
     },
     {
-      "word": "hamper",
-      "definition": "to hinder or impede movement or progress",
-      "partOfSpeech": "verb",
-      "sentences": ["Heavy rain hampered rescue efforts.", "Poor equipment hampered the team's performance."],
+      "word": "hallowed",
+      "definition": "revered, consecrated",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her hallowed attitude impressed everyone in the room."
+      ],
       "startingLetter": "H"
     },
     {
-      "word": "haphazard",
-      "definition": "lacking any obvious order or planning",
-      "partOfSpeech": "adjective",
-      "sentences": ["The books were arranged in a haphazard manner.", "His haphazard approach led to many mistakes."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "harangue",
-      "definition": "a lengthy and aggressive speech",
-      "partOfSpeech": "noun",
-      "sentences": ["The manager delivered a harangue about tardiness.", "We endured his harangue for over an hour."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "harbinger",
-      "definition": "a person or thing that announces the approach of something",
-      "partOfSpeech": "noun",
-      "sentences": ["The robin is a harbinger of spring.", "His resignation was a harbinger of changes to come."],
+      "word": "hapless",
+      "definition": "unlucky",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a hapless act that changed the course of history."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "hardy",
-      "definition": "able to endure difficult conditions; robust",
-      "partOfSpeech": "adjective",
-      "sentences": ["Only hardy plants survive in the desert.", "The hardy explorers braved the Arctic cold."],
+      "definition": "robust, capable of surviving through adverse conditions",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The hardy student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "H"
+    },
+    {
+      "word": "harrowing",
+      "definition": "greatly distressing, vexing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her harrowing attitude impressed everyone in the room."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "haughty",
-      "definition": "arrogantly superior and disdainful",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her haughty manner alienated potential friends.", "The haughty waiter looked down on the customers."],
+      "definition": "disdainfully proud",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her haughty attitude impressed everyone in the room."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "hedonist",
-      "definition": "a person who pursues pleasure above all else",
-      "partOfSpeech": "noun",
-      "sentences": ["The hedonist spent his fortune on luxury goods.", "She dismissed him as a shallow hedonist."],
+      "definition": "one who believes pleasure should be the primary pursuit of humans",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked hedonist."
+      ],
       "startingLetter": "H"
     },
     {
-      "word": "heresy",
-      "definition": "belief contrary to accepted doctrine",
-      "partOfSpeech": "noun",
-      "sentences": ["His ideas were considered heresy by the church.", "Questioning the company policy was treated as heresy."],
+      "word": "hegemony",
+      "definition": "domination over others",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how hegemony can affect an entire community."
+      ],
+      "startingLetter": "H"
+    },
+    {
+      "word": "heinous",
+      "definition": "shockingly wicked, repugnant",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her heinous attitude impressed everyone in the room."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "heterogeneous",
-      "definition": "diverse in character or content",
-      "partOfSpeech": "adjective",
-      "sentences": ["The city has a heterogeneous population.", "The class was heterogeneous in age and background."],
+      "definition": "varied, diverse in character",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The heterogeneous student volunteered to help others despite the risk."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "hiatus",
-      "definition": "a pause or gap in continuity",
-      "partOfSpeech": "noun",
-      "sentences": ["The band took a hiatus after their world tour.", "There was a brief hiatus in the negotiations."],
+      "definition": "a break or gap in duration or continuity",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of hiatus on society."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "hierarchy",
-      "definition": "a system of ranking people or things",
-      "partOfSpeech": "noun",
-      "sentences": ["The company has a strict hierarchy.", "She quickly rose through the corporate hierarchy."],
+      "definition": "a system with ranked groups, usually according to social, economic, or",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of hierarchy on society."
+      ],
       "startingLetter": "H"
     },
     {
-      "word": "hindsight",
-      "definition": "understanding of a situation after it has happened",
-      "partOfSpeech": "noun",
-      "sentences": ["In hindsight, the decision was clearly wrong.", "Hindsight revealed many missed opportunities."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "homogeneous",
-      "definition": "of the same kind; uniform throughout",
-      "partOfSpeech": "adjective",
-      "sentences": ["The neighborhood was culturally homogeneous.", "The mixture should be smooth and homogeneous."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hyperbole",
-      "definition": "exaggerated statements not meant to be taken literally",
-      "partOfSpeech": "noun",
-      "sentences": ["Saying he's the best ever is pure hyperbole.", "Her story was filled with hyperbole."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hypocritical",
-      "definition": "pretending to have beliefs one does not actually hold",
-      "partOfSpeech": "adjective",
-      "sentences": ["It was hypocritical of him to criticize others.", "Her hypocritical stance angered her supporters."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hypothesis",
-      "definition": "a proposed explanation for a phenomenon",
-      "partOfSpeech": "noun",
-      "sentences": ["The scientist tested her hypothesis in the lab.", "His hypothesis proved to be correct."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hysteria",
-      "definition": "exaggerated or uncontrollable emotion",
-      "partOfSpeech": "noun",
-      "sentences": ["Mass hysteria swept through the crowd.", "The news caused hysteria among investors."],
+      "word": "hypocrisy",
+      "definition": "pretending to believe what one does not",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of hypocrisy in difficult times."
+      ],
       "startingLetter": "H"
     },
     {
       "word": "iconoclast",
-      "definition": "a person who attacks cherished beliefs or institutions",
-      "partOfSpeech": "noun",
-      "sentences": ["The artist was an iconoclast who challenged traditions.", "As an iconoclast, she questioned everything."],
+      "definition": "one who attacks common beliefs or institutions",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of iconoclast in difficult times."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "idiosyncrasy",
-      "definition": "a distinctive or peculiar characteristic",
-      "partOfSpeech": "noun",
-      "sentences": ["Her habit of humming was an endearing idiosyncrasy.", "Each writer has unique idiosyncrasies."],
+      "word": "idiosyncratic",
+      "definition": "peculiar to one person; highly individualized",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The idiosyncratic student volunteered to help others despite the risk."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "ignoble",
-      "definition": "not honorable in character or purpose",
-      "partOfSpeech": "adjective",
-      "sentences": ["His ignoble behavior shocked his family.", "The politician's ignoble motives were exposed."],
+      "word": "idolatrous",
+      "definition": "excessively worshipping one object or person",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The idolatrous student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "ignominious",
+      "definition": "humiliating, disgracing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ignominious response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "illicit",
-      "definition": "forbidden by law, rules, or custom",
-      "partOfSpeech": "adjective",
-      "sentences": ["The police uncovered an illicit drug operation.", "Their illicit affair destroyed two marriages."],
+      "definition": "forbidden, not permitted",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her illicit attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "imminent",
-      "definition": "about to happen very soon",
-      "partOfSpeech": "adjective",
-      "sentences": ["The storm's arrival was imminent.", "They sensed that danger was imminent."],
+      "word": "immerse",
+      "definition": "to absorb, deeply involve, engross",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to immerse their strategy after the loss."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "immutable",
-      "definition": "unchanging over time; permanent",
-      "partOfSpeech": "adjective",
-      "sentences": ["The laws of physics are immutable.", "Her immutable principles guided every decision."],
+      "definition": "not changeable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her immutable attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "impartial",
-      "definition": "treating all rivals or disputants equally; fair",
-      "partOfSpeech": "adjective",
-      "sentences": ["A judge must remain impartial.", "She gave an impartial assessment of the situation."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impasse",
-      "definition": "a situation in which no progress is possible",
-      "partOfSpeech": "noun",
-      "sentences": ["The negotiations reached an impasse.", "They found a way to break the impasse."],
+      "word": "impassive",
+      "definition": "stoic, not susceptible to suffering",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The impassive response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "impeccable",
-      "definition": "without flaw or error; perfect",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her impeccable manners impressed everyone.", "The chef has an impeccable reputation."],
+      "definition": "exemplary, ﬂawless",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The impeccable response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "impede",
-      "definition": "to delay or prevent by obstructing",
-      "partOfSpeech": "verb",
-      "sentences": ["Heavy traffic impeded our progress.", "Nothing could impede her determination."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impending",
-      "definition": "about to happen; imminent",
-      "partOfSpeech": "adjective",
-      "sentences": ["She sensed the impending crisis.", "The impending deadline caused stress."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "imperative",
-      "definition": "of vital importance; crucial",
-      "partOfSpeech": "adjective",
-      "sentences": ["It is imperative that we act now.", "Speed was imperative in the rescue mission."],
+      "word": "impecunious",
+      "definition": "poor",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The impecunious student volunteered to help others despite the risk."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "imperious",
-      "definition": "arrogant and domineering",
-      "partOfSpeech": "adjective",
-      "sentences": ["His imperious tone offended his colleagues.", "She issued imperious commands to her staff."],
+      "definition": "commanding, domineering",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The imperious response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "impertinent",
-      "definition": "rude and disrespectful",
-      "partOfSpeech": "adjective",
-      "sentences": ["The student asked an impertinent question.", "His impertinent remarks were not appreciated."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impetuous",
-      "definition": "acting quickly without thought or care",
-      "partOfSpeech": "adjective",
-      "sentences": ["His impetuous decision caused problems.", "She made an impetuous purchase she later regretted."],
+      "definition": "rude, insolent",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a impertinent act that changed the course of history."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "impervious",
-      "definition": "not allowing something to pass through; unaffected",
-      "partOfSpeech": "adjective",
-      "sentences": ["The material is impervious to water.", "She seemed impervious to criticism."],
+      "definition": "impenetrable, incapable of being affected",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a impervious act that changed the course of history."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "impetuous",
+      "definition": "rash; hastily done",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a impetuous act that changed the course of history."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "implacable",
-      "definition": "unable to be appeased or pacified",
-      "partOfSpeech": "adjective",
-      "sentences": ["He faced an implacable enemy.", "Her implacable anger lasted for years."],
+      "definition": "incapable of being appeased or mitigated",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The implacable response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "implausible",
-      "definition": "not seeming reasonable or probable",
-      "partOfSpeech": "adjective",
-      "sentences": ["His excuse was completely implausible.", "The plot of the movie was implausible."],
+      "word": "implicate",
+      "definition": "to involve in an incriminating way, incriminate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to implicate the problem before it grew worse."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "implicit",
-      "definition": "implied though not directly expressed",
-      "partOfSpeech": "adjective",
-      "sentences": ["There was an implicit threat in his words.", "Her implicit trust in him was touching."],
+      "definition": "understood but not outwardly obvious, implied",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The implicit response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "impoverished",
-      "definition": "made poor; lacking resources",
-      "partOfSpeech": "adjective",
-      "sentences": ["The war left the country impoverished.", "Many impoverished families need assistance."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "improvident",
-      "definition": "not having or showing foresight; wasteful",
-      "partOfSpeech": "adjective",
-      "sentences": ["His improvident spending led to bankruptcy.", "They were improvident with their resources."],
+      "word": "impregnable",
+      "definition": "resistant to capture or penetration",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The impregnable student volunteered to help others despite the risk."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "impudent",
-      "definition": "not showing proper respect; impertinent",
-      "partOfSpeech": "adjective",
-      "sentences": ["The impudent child talked back to his teacher.", "Her impudent behavior shocked the guests."],
+      "definition": "casually rude, insolent, impertinent",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The impudent response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "impute",
-      "definition": "to attribute something to someone",
-      "partOfSpeech": "verb",
-      "sentences": ["They imputed the crime to the wrong person.", "Don't impute motives that don't exist."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inadvertent",
-      "definition": "not resulting from deliberate planning; accidental",
-      "partOfSpeech": "adjective",
-      "sentences": ["It was an inadvertent error.", "Her inadvertent comment hurt his feelings."],
+      "definition": "to ascribe, blame",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to impute their strategy after the loss."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inane",
-      "definition": "silly and pointless",
-      "partOfSpeech": "adjective",
-      "sentences": ["The show was full of inane humor.", "His inane questions wasted everyone's time."],
+      "definition": "silly and meaningless",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The inane student volunteered to help others despite the risk."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "incendiary",
-      "definition": "designed to cause fires; inflammatory",
-      "partOfSpeech": "adjective",
-      "sentences": ["The incendiary device caused the explosion.", "His incendiary speech provoked riots."],
+      "word": "inarticulate",
+      "definition": "incapable of expressing oneself clearly through speech",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her inarticulate attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "incessant",
-      "definition": "continuing without pause or interruption",
-      "partOfSpeech": "adjective",
-      "sentences": ["The incessant noise kept us awake.", "She complained about his incessant talking."],
+      "definition": "unending",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a incessant act that changed the course of history."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "inchoate",
+      "definition": "unformed or formless, in a beginning stage",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a inchoate act that changed the course of history."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "incisive",
-      "definition": "intelligently analytical and clear-thinking",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her incisive comments cut to the heart of the matter.", "The journalist asked incisive questions."],
+      "definition": "clear, sharp, direct",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The incisive response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "incite",
-      "definition": "to encourage or stir up violent or unlawful behavior",
-      "partOfSpeech": "verb",
-      "sentences": ["The speaker tried to incite the crowd.", "His words incited a rebellion."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "incongruous",
-      "definition": "not in harmony or keeping with the surroundings",
-      "partOfSpeech": "adjective",
-      "sentences": ["The modern building looked incongruous in the old town.", "His casual attire was incongruous at the formal event."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inconsequential",
-      "definition": "not important or significant",
-      "partOfSpeech": "adjective",
-      "sentences": ["The error was inconsequential.", "They argued over inconsequential matters."],
+      "word": "inclination",
+      "definition": "a tendency, propensity",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how inclination can affect an entire community."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "incontrovertible",
-      "definition": "not able to be denied or disputed",
-      "partOfSpeech": "adjective",
-      "sentences": ["The evidence was incontrovertible.", "She presented incontrovertible facts."],
+      "definition": "indisputable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her incontrovertible attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "incorrigible",
-      "definition": "not able to be corrected or reformed",
-      "partOfSpeech": "adjective",
-      "sentences": ["He was an incorrigible troublemaker.", "Her incorrigible optimism never faded."],
+      "definition": "incapable of correction, delinquent",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The incorrigible student volunteered to help others despite the risk."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "incredulous",
-      "definition": "unwilling or unable to believe something",
-      "partOfSpeech": "adjective",
-      "sentences": ["She gave him an incredulous look.", "The audience was incredulous at the news."],
+      "word": "increment",
+      "definition": "an enlargement; the process of increasing",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked increment."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "inculcate",
-      "definition": "to instill an idea through persistent instruction",
-      "partOfSpeech": "verb",
-      "sentences": ["Parents try to inculcate good values in their children.", "The school inculcates a love of learning."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "incumbent",
-      "definition": "necessary for someone as a duty; currently holding office",
-      "partOfSpeech": "adjective",
-      "sentences": ["It is incumbent upon us to help.", "The incumbent president sought reelection."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indifferent",
-      "definition": "having no particular interest or concern",
-      "partOfSpeech": "adjective",
-      "sentences": ["He seemed indifferent to her suffering.", "The audience was indifferent to the performance."],
+      "word": "indefatigable",
+      "definition": "incapable of defeat, failure, decay",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a indefatigable act that changed the course of history."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "indigenous",
-      "definition": "originating naturally in a particular place",
-      "partOfSpeech": "adjective",
-      "sentences": ["The plant is indigenous to South America.", "We studied the indigenous peoples of the region."],
+      "definition": "originating in a region",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her indigenous attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "indigent",
-      "definition": "poor; needy",
-      "partOfSpeech": "adjective",
-      "sentences": ["The charity helps indigent families.", "Indigent patients receive free care."],
+      "definition": "very poor, impoverished",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a indigent act that changed the course of history."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "indignant",
-      "definition": "feeling or showing anger at perceived unfair treatment",
-      "partOfSpeech": "adjective",
-      "sentences": ["She was indignant about the false accusations.", "His indignant response surprised everyone."],
+      "word": "indignation",
+      "definition": "anger sparked by something unjust or unfair",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of indignation in difficult times."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "indolent",
-      "definition": "wanting to avoid activity or exertion; lazy",
-      "partOfSpeech": "adjective",
-      "sentences": ["The indolent student rarely did homework.", "He spent an indolent summer by the pool."],
+      "definition": "lazy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her indolent attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "indomitable",
-      "definition": "impossible to subdue or defeat",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her indomitable spirit inspired others.", "The team showed indomitable courage."],
+      "definition": "not capable of being conquered",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The indomitable response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "induce",
-      "definition": "to succeed in persuading someone to do something",
-      "partOfSpeech": "verb",
-      "sentences": ["Nothing could induce him to change his mind.", "The medicine induced sleep."],
+      "definition": "to bring about, stimulate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often induce students who show exceptional effort."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "ineffable",
-      "definition": "too great or extreme to be expressed in words",
-      "partOfSpeech": "adjective",
-      "sentences": ["She felt an ineffable sense of joy.", "The beauty of the sunset was ineffable."],
+      "definition": "unspeakable, incapable of being expressed through words",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her ineffable attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inept",
-      "definition": "having or showing no skill; clumsy",
-      "partOfSpeech": "adjective",
-      "sentences": ["His inept handling of the situation made things worse.", "The inept waiter spilled water everywhere."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inert",
-      "definition": "lacking the ability or strength to move",
-      "partOfSpeech": "adjective",
-      "sentences": ["The patient lay inert on the bed.", "Helium is an inert gas."],
+      "definition": "not suitable or capable, unqualiﬁed",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her inept attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inexorable",
-      "definition": "impossible to stop or prevent",
-      "partOfSpeech": "adjective",
-      "sentences": ["The inexorable march of time continues.", "His inexorable pursuit of justice never wavered."],
+      "definition": "incapable of being persuaded or placated",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The inexorable response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "infamous",
-      "definition": "well known for some bad quality or deed",
-      "partOfSpeech": "adjective",
-      "sentences": ["The infamous criminal was finally captured.", "The town is infamous for its harsh winters."],
+      "word": "inextricable",
+      "definition": "hopelessly tangled or entangled",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a inextricable act that changed the course of history."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "infamy",
-      "definition": "the state of being well known for bad qualities",
-      "partOfSpeech": "noun",
-      "sentences": ["The scandal brought him infamy.", "The date will live in infamy."],
+      "definition": "notoriety, extreme ill repute",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked infamy."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "infusion",
+      "definition": "an injection of one substance into another; the permeation of one",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of infusion in difficult times."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "ingenious",
-      "definition": "clever, original, and inventive",
-      "partOfSpeech": "adjective",
-      "sentences": ["She devised an ingenious solution.", "The ingenious design won many awards."],
+      "definition": "clever, resourceful",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ingenious response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "ingenuous",
-      "definition": "innocent and unsuspecting; artless",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her ingenuous nature made her easy to deceive.", "He asked the question with ingenuous curiosity."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inherent",
-      "definition": "existing as a permanent, essential quality",
-      "partOfSpeech": "adjective",
-      "sentences": ["There are inherent risks in the plan.", "Creativity is inherent in all children."],
+      "definition": "not devious; innocent and candid",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her ingenuous attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inhibit",
-      "definition": "to hinder or restrain an action or process",
-      "partOfSpeech": "verb",
-      "sentences": ["Fear can inhibit creativity.", "The drug inhibits the growth of cancer cells."],
+      "definition": "to prevent, restrain, stop",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to inhibit the problem before it grew worse."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inimical",
-      "definition": "tending to obstruct or harm; hostile",
-      "partOfSpeech": "adjective",
-      "sentences": ["The policy was inimical to their interests.", "Such behavior is inimical to team spirit."],
+      "definition": "hostile, enemylike",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The inimical response surprised even the critics."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "iniquity",
+      "definition": "wickedness or sin",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how iniquity can affect an entire community."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "innate",
+      "definition": "inborn, native, inherent",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The innate response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "innocuous",
-      "definition": "not harmful or offensive",
-      "partOfSpeech": "adjective",
-      "sentences": ["It seemed like an innocuous remark.", "The substance is completely innocuous."],
+      "definition": "harmless, inoffensive",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her innocuous attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "innovate",
-      "definition": "to introduce new methods, ideas, or products",
-      "partOfSpeech": "verb",
-      "sentences": ["The company continues to innovate.", "We must innovate to stay competitive."],
+      "definition": "to do something in an unprecedented way",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to innovate the outdated law."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "innuendo",
-      "definition": "an indirect or subtle suggestion, usually negative",
-      "partOfSpeech": "noun",
-      "sentences": ["The article was full of innuendo.", "She ignored his innuendo about her past."],
+      "definition": "an insinuation",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of innuendo in difficult times."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "inoculate",
+      "definition": "to introduce a microorganism, serum, or vaccine into an organism in",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to inoculate the problem before it grew worse."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "inquisitor",
+      "definition": "one who inquires, especially in a hostile manner",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of inquisitor in difficult times."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insatiable",
-      "definition": "impossible to satisfy",
-      "partOfSpeech": "adjective",
-      "sentences": ["He had an insatiable appetite for knowledge.", "Her insatiable curiosity drove her research."],
+      "definition": "incapable of being satisﬁed",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The insatiable response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insidious",
-      "definition": "proceeding in a subtle way with harmful effects",
-      "partOfSpeech": "adjective",
-      "sentences": ["The disease has an insidious onset.", "Rumors can have an insidious effect."],
+      "definition": "appealing but imperceptibly harmful, seductive",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The insidious response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insinuate",
-      "definition": "to suggest something bad in an indirect way",
-      "partOfSpeech": "verb",
-      "sentences": ["She insinuated that he was lying.", "He insinuated himself into her confidence."],
+      "definition": "to suggest indirectly or subtly",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to insinuate the problem before it grew worse."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insipid",
-      "definition": "lacking flavor or interest; dull",
-      "partOfSpeech": "adjective",
-      "sentences": ["The soup was insipid and bland.", "His insipid speech bored the audience."],
+      "definition": "dull, boring",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The insipid response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insolent",
-      "definition": "showing a rude and arrogant lack of respect",
-      "partOfSpeech": "adjective",
-      "sentences": ["The insolent student was sent to the principal.", "His insolent reply shocked his parents."],
+      "definition": "rude, arrogant, overbearing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The insolent student volunteered to help others despite the risk."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "instigate",
-      "definition": "to bring about or initiate an action",
-      "partOfSpeech": "verb",
-      "sentences": ["He was accused of instigating the riot.", "She instigated changes in the organization."],
+      "definition": "to urge, goad",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The team agreed to instigate their strategy after the loss."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insular",
-      "definition": "ignorant of or uninterested in cultures beyond one's own",
-      "partOfSpeech": "adjective",
-      "sentences": ["The community had an insular mentality.", "His insular views limited his understanding."],
+      "definition": "separated and narrow-minded; tight-knit, closed off",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her insular attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "insurgent",
-      "definition": "a rebel or revolutionary",
-      "partOfSpeech": "noun",
-      "sentences": ["The insurgents attacked the military base.", "Government forces captured the insurgent leader."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "intangible",
-      "definition": "unable to be touched or grasped; not having physical presence",
-      "partOfSpeech": "adjective",
-      "sentences": ["Happiness is an intangible quality.", "The company's intangible assets include its reputation."],
+      "definition": "one who rebels",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked insurgent."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "integral",
-      "definition": "essential or fundamental to completeness",
-      "partOfSpeech": "adjective",
-      "sentences": ["She is an integral part of the team.", "Music is integral to their culture."],
+      "definition": "necessary for completeness",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The integral response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "integrity",
-      "definition": "the quality of being honest and having strong moral principles",
-      "partOfSpeech": "noun",
-      "sentences": ["His integrity was never questioned.", "She acted with complete integrity."],
+      "word": "interject",
+      "definition": "to insert between other things",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often interject students who show exceptional effort."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "intermittent",
-      "definition": "occurring at irregular intervals; not continuous",
-      "partOfSpeech": "adjective",
-      "sentences": ["The rain was intermittent throughout the day.", "She received intermittent signals on her phone."],
+      "word": "interlocutor",
+      "definition": "someone who participates in a dialogue or conversation",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how interlocutor can affect an entire community."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "interminable",
+      "definition": "without possibility of end",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The interminable student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "intimation",
+      "definition": "an indirect suggestion",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how intimation can affect an entire community."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "intractable",
+      "definition": "difﬁcult to manipulate, unmanageable",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a intractable act that changed the course of history."
+      ],
+      "startingLetter": "I"
+    },
+    {
+      "word": "intransigent",
+      "definition": "refusing to compromise, often on an extreme opinion",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her intransigent attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "intrepid",
-      "definition": "fearless and adventurous",
-      "partOfSpeech": "adjective",
-      "sentences": ["The intrepid explorer ventured into unknown territory.", "Only the intrepid dared to climb the mountain."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "intricate",
-      "definition": "very complicated or detailed",
-      "partOfSpeech": "adjective",
-      "sentences": ["The watch has an intricate mechanism.", "She designed an intricate pattern."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "intrinsic",
-      "definition": "belonging naturally; essential",
-      "partOfSpeech": "adjective",
-      "sentences": ["Kindness has intrinsic value.", "The intrinsic beauty of nature inspired the artist."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "introspective",
-      "definition": "characterized by examination of one's own thoughts",
-      "partOfSpeech": "adjective",
-      "sentences": ["She became more introspective as she aged.", "The introspective poet wrote about inner struggles."],
+      "definition": "brave in the face of danger",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her intrepid attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inundate",
-      "definition": "to overwhelm with things to be dealt with",
-      "partOfSpeech": "verb",
-      "sentences": ["The office was inundated with complaints.", "Heavy rains inundated the town."],
+      "definition": "to ﬂood with abundance",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often inundate students who show exceptional effort."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "invalidate",
-      "definition": "to make something legally or officially unacceptable",
-      "partOfSpeech": "verb",
-      "sentences": ["The court invalidated the law.", "New evidence could invalidate the theory."],
+      "word": "inure",
+      "definition": "to cause someone or something to become accustomed to a situation",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often inure students who show exceptional effort."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "invective",
-      "definition": "insulting or abusive language",
-      "partOfSpeech": "noun",
-      "sentences": ["He launched into a stream of invective.", "The debate descended into invective."],
+      "definition": "an angry verbal attack",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of invective on society."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "inveterate",
-      "definition": "having a long-standing habit that is unlikely to change",
-      "partOfSpeech": "adjective",
-      "sentences": ["He was an inveterate gambler.", "Her inveterate optimism never faded."],
+      "definition": "stubbornly established by habit",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her inveterate attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "invincible",
-      "definition": "too powerful to be defeated or overcome",
-      "partOfSpeech": "adjective",
-      "sentences": ["The team seemed invincible that season.", "No army is truly invincible."],
+      "word": "inviolable",
+      "definition": "secure from assault",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her inviolable attitude impressed everyone in the room."
+      ],
       "startingLetter": "I"
     },
     {
       "word": "irascible",
-      "definition": "easily angered; irritable",
-      "partOfSpeech": "adjective",
-      "sentences": ["The irascible old man yelled at the children.", "His irascible temper made him difficult to work with."],
+      "definition": "easily angered",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The irascible response surprised even the critics."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "irreverent",
-      "definition": "showing a lack of respect for things normally treated seriously",
-      "partOfSpeech": "adjective",
-      "sentences": ["His irreverent humor shocked some people.", "The irreverent comedian mocked politicians."],
+      "word": "irreverence",
+      "definition": "disrespect",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how irreverence can affect an entire community."
+      ],
       "startingLetter": "I"
     },
     {
-      "word": "itinerant",
-      "definition": "traveling from place to place",
-      "partOfSpeech": "adjective",
-      "sentences": ["The itinerant musician played in different cities.", "Itinerant workers followed the harvest."],
+      "word": "irrevocable",
+      "definition": "incapable of being taken back",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a irrevocable act that changed the course of history."
+      ],
       "startingLetter": "I"
-    },
-    {
-      "word": "jaded",
-      "definition": "tired and lacking enthusiasm after too much exposure",
-      "partOfSpeech": "adjective",
-      "sentences": ["The jaded critic had seen it all before.", "Years of rejection left her jaded."],
-      "startingLetter": "J"
-    },
-    {
-      "word": "jargon",
-      "definition": "special words used by a particular profession or group",
-      "partOfSpeech": "noun",
-      "sentences": ["The document was full of legal jargon.", "Please avoid technical jargon in your presentation."],
-      "startingLetter": "J"
-    },
-    {
-      "word": "jaundiced",
-      "definition": "affected by bitterness or resentment",
-      "partOfSpeech": "adjective",
-      "sentences": ["He had a jaundiced view of politics.", "Her jaundiced perspective came from past failures."],
-      "startingLetter": "J"
-    },
-    {
-      "word": "jeopardize",
-      "definition": "to put someone or something into a situation of risk",
-      "partOfSpeech": "verb",
-      "sentences": ["His actions could jeopardize the mission.", "Don't jeopardize your health by smoking."],
-      "startingLetter": "J"
-    },
-    {
-      "word": "jovial",
-      "definition": "cheerful and friendly",
-      "partOfSpeech": "adjective",
-      "sentences": ["The jovial host greeted everyone warmly.", "His jovial personality made him popular."],
-      "startingLetter": "J"
     },
     {
       "word": "jubilant",
-      "definition": "feeling or expressing great happiness and triumph",
-      "partOfSpeech": "adjective",
-      "sentences": ["The team was jubilant after winning.", "Jubilant crowds filled the streets."],
+      "definition": "extremely joyful, happy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her jubilant attitude impressed everyone in the room."
+      ],
       "startingLetter": "J"
     },
     {
       "word": "judicious",
-      "definition": "having or showing good judgment",
-      "partOfSpeech": "adjective",
-      "sentences": ["She made a judicious decision.", "Judicious use of resources is essential."],
+      "definition": "having or exercising sound judgment",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The judicious response surprised even the critics."
+      ],
       "startingLetter": "J"
     },
     {
-      "word": "juxtapose",
-      "definition": "to place close together for contrasting effect",
-      "partOfSpeech": "verb",
-      "sentences": ["The artist juxtaposed light and dark colors.", "The film juxtaposes wealth and poverty."],
+      "word": "juxtaposition",
+      "definition": "the act of placing two things next to each other for implicit",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of juxtaposition on society."
+      ],
       "startingLetter": "J"
     },
     {
-      "word": "kindle",
-      "definition": "to light a fire; to arouse an emotion",
-      "partOfSpeech": "verb",
-      "sentences": ["He kindled a fire in the fireplace.", "The speech kindled hope in the audience."],
+      "word": "knell",
+      "definition": "the solemn sound of a bell, often indicating a death",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked knell."
+      ],
       "startingLetter": "K"
     },
     {
-      "word": "kinetic",
-      "definition": "relating to or resulting from motion",
-      "partOfSpeech": "adjective",
-      "sentences": ["The sculpture had a kinetic quality.", "Kinetic energy increases with speed."],
+      "word": "kudos",
+      "definition": "praise for an achievement",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of kudos on society."
+      ],
       "startingLetter": "K"
     },
     {
-      "word": "knack",
-      "definition": "a skill or talent for doing something easily",
-      "partOfSpeech": "noun",
-      "sentences": ["She has a knack for languages.", "He had a knack for making people laugh."],
-      "startingLetter": "K"
-    },
-    {
-      "word": "laborious",
-      "definition": "requiring considerable effort and time",
-      "partOfSpeech": "adjective",
-      "sentences": ["The laborious task took all day.", "Writing the report was a laborious process."],
+      "word": "laceration",
+      "definition": "a cut, tear",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked laceration."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "laconic",
-      "definition": "using very few words",
-      "partOfSpeech": "adjective",
-      "sentences": ["His laconic reply gave nothing away.", "The laconic message simply said goodbye."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lampoon",
-      "definition": "to publicly criticize using ridicule or sarcasm",
-      "partOfSpeech": "verb",
-      "sentences": ["The show lampooned political figures.", "Satirists love to lampoon celebrities."],
+      "definition": "terse in speech or writing",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her laconic attitude impressed everyone in the room."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "languid",
-      "definition": "lacking energy or vitality; slow and relaxed",
-      "partOfSpeech": "adjective",
-      "sentences": ["The heat made everyone languid.", "She stretched in a languid manner."],
+      "definition": "sluggish from fatigue or weakness",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a languid act that changed the course of history."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "larceny",
-      "definition": "theft of personal property",
-      "partOfSpeech": "noun",
-      "sentences": ["He was charged with grand larceny.", "Petty larceny carries lighter penalties."],
+      "definition": "obtaining another’s property by theft or trickery",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of larceny on society."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "largess",
-      "definition": "generosity in giving money or gifts",
-      "partOfSpeech": "noun",
-      "sentences": ["The charity benefited from his largess.", "The company distributed its largess to employees."],
+      "definition": "the generous giving of lavish gifts",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of largess in difficult times."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "latent",
-      "definition": "existing but not yet developed or manifest",
-      "partOfSpeech": "adjective",
-      "sentences": ["She discovered her latent talent for art.", "The disease remained latent for years."],
+      "definition": "hidden, but capable of being exposed",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a latent act that changed the course of history."
+      ],
       "startingLetter": "L"
     },
     {
-      "word": "laudable",
-      "definition": "deserving praise and commendation",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her efforts were truly laudable.", "The organization has a laudable mission."],
+      "word": "laudatory",
+      "definition": "expressing admiration or praise",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The laudatory student volunteered to help others despite the risk."
+      ],
       "startingLetter": "L"
     },
     {
-      "word": "lavish",
-      "definition": "sumptuously rich or elaborate; generous",
-      "partOfSpeech": "adjective",
-      "sentences": ["They hosted a lavish party.", "He was lavish with his compliments."],
+      "word": "legerdemain",
+      "definition": "deception, slight-of-hand",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of legerdemain on society."
+      ],
       "startingLetter": "L"
     },
     {
-      "word": "lax",
-      "definition": "not sufficiently strict or careful",
-      "partOfSpeech": "adjective",
-      "sentences": ["Security at the building was lax.", "Lax enforcement led to more violations."],
+      "word": "lenient",
+      "definition": "demonstrating tolerance or gentleness",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a lenient act that changed the course of history."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "lethargic",
-      "definition": "affected by a lack of energy or enthusiasm",
-      "partOfSpeech": "adjective",
-      "sentences": ["The hot weather made him lethargic.", "The lethargic economy showed little growth."],
+      "definition": "in a state of sluggishness or apathy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The lethargic student volunteered to help others despite the risk."
+      ],
       "startingLetter": "L"
     },
     {
-      "word": "levity",
-      "definition": "humor or lack of seriousness, especially during a serious occasion",
-      "partOfSpeech": "noun",
-      "sentences": ["His levity was inappropriate at the funeral.", "A moment of levity lightened the mood."],
+      "word": "libertarian",
+      "definition": "advocating principles of liberty and free will",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her libertarian attitude impressed everyone in the room."
+      ],
+      "startingLetter": "L"
+    },
+    {
+      "word": "licentious",
+      "definition": "displaying a lack of moral or legal restraints",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The licentious response surprised even the critics."
+      ],
+      "startingLetter": "L"
+    },
+    {
+      "word": "limpid",
+      "definition": "clear, transparent",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a limpid act that changed the course of history."
+      ],
+      "startingLetter": "L"
+    },
+    {
+      "word": "linchpin",
+      "definition": "something that holds separate parts together",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of linchpin in difficult times."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "lithe",
-      "definition": "thin, supple, and graceful",
-      "partOfSpeech": "adjective",
-      "sentences": ["The lithe dancer moved effortlessly.", "Cats are known for their lithe bodies."],
+      "definition": "graceful, ﬂexible, supple",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a lithe act that changed the course of history."
+      ],
       "startingLetter": "L"
     },
     {
-      "word": "lofty",
-      "definition": "of imposing height; elevated in character",
-      "partOfSpeech": "adjective",
-      "sentences": ["She had lofty ambitions.", "The lofty peaks rose above the clouds."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "loquacious",
-      "definition": "tending to talk a great deal",
-      "partOfSpeech": "adjective",
-      "sentences": ["The loquacious guest dominated the conversation.", "He became more loquacious after a few drinks."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lucid",
-      "definition": "expressed clearly; easy to understand",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her explanation was lucid and concise.", "He had a lucid moment before falling asleep."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "ludicrous",
-      "definition": "so foolish or unreasonable as to be amusing",
-      "partOfSpeech": "adjective",
-      "sentences": ["The accusation was ludicrous.", "It would be ludicrous to believe him."],
+      "word": "litigant",
+      "definition": "someone engaged in a lawsuit",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of litigant on society."
+      ],
       "startingLetter": "L"
     },
     {
       "word": "luminous",
-      "definition": "full of or shedding light; bright",
-      "partOfSpeech": "adjective",
-      "sentences": ["The luminous moon lit the path.", "Her luminous smile brightened the room."],
+      "definition": "brightly shining",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her luminous attitude impressed everyone in the room."
+      ],
       "startingLetter": "L"
     },
     {
-      "word": "magnanimous",
-      "definition": "very generous or forgiving",
-      "partOfSpeech": "adjective",
-      "sentences": ["She was magnanimous in victory.", "His magnanimous gesture surprised everyone."],
+      "word": "lurid",
+      "definition": "ghastly, sensational",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her lurid attitude impressed everyone in the room."
+      ],
+      "startingLetter": "L"
+    },
+    {
+      "word": "maelstrom",
+      "definition": "a destructive whirlpool which rapidly sucks in objects",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked maelstrom."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "malady",
-      "definition": "a disease or ailment",
-      "partOfSpeech": "noun",
-      "sentences": ["The doctor diagnosed a rare malady.", "Poverty is a social malady."],
+      "word": "magnanimous",
+      "definition": "noble, generous",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a magnanimous act that changed the course of history."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "malediction",
       "definition": "a curse",
-      "partOfSpeech": "noun",
-      "sentences": ["The witch uttered a malediction.", "He believed he was under a malediction."],
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked malediction."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "malevolent",
-      "definition": "having or showing a wish to do evil to others",
-      "partOfSpeech": "adjective",
-      "sentences": ["The malevolent villain plotted revenge.", "His malevolent stare frightened the children."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "malice",
-      "definition": "the intention to do evil or cause harm",
-      "partOfSpeech": "noun",
-      "sentences": ["There was no malice in her words.", "He acted without malice."],
+      "definition": "wanting harm to befall others",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her malevolent attitude impressed everyone in the room."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "malleable",
-      "definition": "easily influenced or shaped",
-      "partOfSpeech": "adjective",
-      "sentences": ["Young minds are malleable.", "Gold is a malleable metal."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "manifest",
-      "definition": "clear and obvious to the eye or mind",
-      "partOfSpeech": "adjective",
-      "sentences": ["His joy was manifest to everyone.", "The manifest errors needed correction."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "maverick",
-      "definition": "an independent-minded person who does not conform",
-      "partOfSpeech": "noun",
-      "sentences": ["She was a maverick in the industry.", "The political maverick challenged party leaders."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "meander",
-      "definition": "to follow a winding course; to wander aimlessly",
-      "partOfSpeech": "verb",
-      "sentences": ["The river meanders through the valley.", "They meandered through the old streets."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "mediate",
-      "definition": "to intervene between disputing parties to bring about agreement",
-      "partOfSpeech": "verb",
-      "sentences": ["She agreed to mediate the dispute.", "The diplomat mediated peace talks."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "melancholy",
-      "definition": "a feeling of pensive sadness",
-      "partOfSpeech": "noun",
-      "sentences": ["A sense of melancholy filled the room.", "The song evoked feelings of melancholy."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "melodramatic",
-      "definition": "exaggerated and emotional in behavior or expression",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her melodramatic reaction annoyed everyone.", "The movie was too melodramatic for my taste."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "menial",
-      "definition": "not requiring much skill and lacking prestige",
-      "partOfSpeech": "adjective",
-      "sentences": ["He refused to do menial tasks.", "The menial work paid very little."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "mercurial",
-      "definition": "subject to sudden changes of mood or mind",
-      "partOfSpeech": "adjective",
-      "sentences": ["His mercurial temperament made him unpredictable.", "The mercurial artist changed styles often."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "meticulous",
-      "definition": "showing great attention to detail",
-      "partOfSpeech": "adjective",
-      "sentences": ["She kept meticulous records.", "The meticulous craftsman produced perfect work."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "militant",
-      "definition": "aggressively active in support of a cause",
-      "partOfSpeech": "adjective",
-      "sentences": ["The militant protesters blocked the road.", "He took a militant stance on the issue."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "misanthrope",
-      "definition": "a person who dislikes humankind",
-      "partOfSpeech": "noun",
-      "sentences": ["The misanthrope preferred solitude.", "Years of disappointment turned him into a misanthrope."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "mitigate",
-      "definition": "to make less severe or serious",
-      "partOfSpeech": "verb",
-      "sentences": ["The apology helped mitigate her anger.", "Measures were taken to mitigate the damage."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "modest",
-      "definition": "unassuming in the estimation of one's abilities",
-      "partOfSpeech": "adjective",
-      "sentences": ["Despite her success, she remained modest.", "He made a modest contribution to the project."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "mollify",
-      "definition": "to appease the anger or anxiety of someone",
-      "partOfSpeech": "verb",
-      "sentences": ["The manager tried to mollify the upset customer.", "His apology did little to mollify her."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "momentous",
-      "definition": "of great importance or significance",
-      "partOfSpeech": "adjective",
-      "sentences": ["It was a momentous occasion.", "The momentous decision changed history."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "monotonous",
-      "definition": "dull and lacking in variety",
-      "partOfSpeech": "adjective",
-      "sentences": ["The monotonous work bored him.", "His monotonous voice put people to sleep."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "morbid",
-      "definition": "characterized by an unhealthy interest in disturbing subjects",
-      "partOfSpeech": "adjective",
-      "sentences": ["He had a morbid fascination with death.", "Her morbid curiosity led her to the crime scene."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "morose",
-      "definition": "sullen and ill-tempered",
-      "partOfSpeech": "adjective",
-      "sentences": ["He became morose after losing his job.", "The morose teenager sat alone in her room."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "mundane",
-      "definition": "lacking interest or excitement; dull",
-      "partOfSpeech": "adjective",
-      "sentences": ["She was tired of mundane daily tasks.", "The mundane routine bored him."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "munificent",
-      "definition": "very generous",
-      "partOfSpeech": "adjective",
-      "sentences": ["The munificent donor gave millions.", "His munificent gift funded the new library."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "myriad",
-      "definition": "a countless or extremely great number",
-      "partOfSpeech": "noun",
-      "sentences": ["There are myriad reasons to study.", "The sky displayed a myriad of stars."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "garner",
-      "definition": "to gather or collect something",
-      "partOfSpeech": "verb",
-      "sentences": ["The film garnered critical acclaim.", "She garnered support for her proposal."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "genesis",
-      "definition": "the origin or mode of formation of something",
-      "partOfSpeech": "noun",
-      "sentences": ["The book explores the genesis of the universe.", "The genesis of the idea came from a dream."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "genteel",
-      "definition": "polite and refined in manner",
-      "partOfSpeech": "adjective",
-      "sentences": ["She came from a genteel family.", "The genteel atmosphere of the club was welcoming."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "gesticulate",
-      "definition": "to use gestures to express or emphasize",
-      "partOfSpeech": "verb",
-      "sentences": ["He gesticulated wildly while telling the story.", "The speaker gesticulated to make her point."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "glean",
-      "definition": "to collect information bit by bit",
-      "partOfSpeech": "verb",
-      "sentences": ["She gleaned useful facts from the report.", "We gleaned what we could from the old records."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "glib",
-      "definition": "fluent but insincere and shallow",
-      "partOfSpeech": "adjective",
-      "sentences": ["His glib answer did not convince anyone.", "Politicians are often accused of being glib."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "grandiose",
-      "definition": "impressive but exaggerated or pretentious",
-      "partOfSpeech": "adjective",
-      "sentences": ["He had grandiose plans for the company.", "The grandiose palace impressed visitors."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "gravity",
-      "definition": "extreme importance or seriousness",
-      "partOfSpeech": "noun",
-      "sentences": ["The gravity of the situation was clear.", "She spoke with gravity about the crisis."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "grievous",
-      "definition": "very severe or serious",
-      "partOfSpeech": "adjective",
-      "sentences": ["He suffered grievous injuries in the accident.", "The grievous mistake cost them the game."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "grudging",
-      "definition": "given or allowed only reluctantly",
-      "partOfSpeech": "adjective",
-      "sentences": ["He gave a grudging apology.", "She received grudging admiration from critics."],
-      "startingLetter": "G"
-    },
-    {
-      "word": "hamstring",
-      "definition": "to severely restrict the progress of",
-      "partOfSpeech": "verb",
-      "sentences": ["Budget cuts hamstrung the project.", "The injury hamstrung his athletic career."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hapless",
-      "definition": "unfortunate and deserving pity",
-      "partOfSpeech": "adjective",
-      "sentences": ["The hapless victim lost everything.", "The hapless traveler missed his flight."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "harrowing",
-      "definition": "extremely distressing or disturbing",
-      "partOfSpeech": "adjective",
-      "sentences": ["The survivors told harrowing stories.", "It was a harrowing experience for everyone."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "heed",
-      "definition": "to pay attention to; to take notice of",
-      "partOfSpeech": "verb",
-      "sentences": ["You should heed her advice.", "They failed to heed the warning signs."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "heinous",
-      "definition": "utterly wicked or evil",
-      "partOfSpeech": "adjective",
-      "sentences": ["The heinous crime shocked the nation.", "He was guilty of heinous acts."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "herald",
-      "definition": "to be a sign that something is about to happen",
-      "partOfSpeech": "verb",
-      "sentences": ["The discovery heralded a new era.", "Dark clouds heralded the approaching storm."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hermetic",
-      "definition": "completely sealed; airtight",
-      "partOfSpeech": "adjective",
-      "sentences": ["The container has a hermetic seal.", "The hermetic society kept outsiders away."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hinder",
-      "definition": "to create difficulties for someone or something",
-      "partOfSpeech": "verb",
-      "sentences": ["Bad weather hindered the search.", "Lack of funds hindered progress."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "holistic",
-      "definition": "characterized by treating the whole person or system",
-      "partOfSpeech": "adjective",
-      "sentences": ["She takes a holistic approach to health.", "Holistic medicine considers mind and body."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "hubris",
-      "definition": "excessive pride or self-confidence",
-      "partOfSpeech": "noun",
-      "sentences": ["His hubris led to his downfall.", "The CEO's hubris alienated employees."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "humility",
-      "definition": "a modest view of one's own importance",
-      "partOfSpeech": "noun",
-      "sentences": ["She accepted the award with humility.", "Humility is an admirable quality."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "husband",
-      "definition": "to use resources economically and carefully",
-      "partOfSpeech": "verb",
-      "sentences": ["They learned to husband their supplies.", "She husbanded her strength for the final push."],
-      "startingLetter": "H"
-    },
-    {
-      "word": "iconoclastic",
-      "definition": "criticizing or attacking cherished beliefs",
-      "partOfSpeech": "adjective",
-      "sentences": ["His iconoclastic views angered traditionalists.", "The iconoclastic artist challenged conventions."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "idyllic",
-      "definition": "extremely happy, peaceful, or picturesque",
-      "partOfSpeech": "adjective",
-      "sentences": ["They spent an idyllic summer by the lake.", "The village had an idyllic charm."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "ignominy",
-      "definition": "public shame or disgrace",
-      "partOfSpeech": "noun",
-      "sentences": ["He suffered the ignominy of defeat.", "The scandal brought ignominy to the family."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "illuminate",
-      "definition": "to light up; to make clear",
-      "partOfSpeech": "verb",
-      "sentences": ["The candles illuminated the room.", "Her explanation illuminated the complex topic."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "illusory",
-      "definition": "based on illusion; not real",
-      "partOfSpeech": "adjective",
-      "sentences": ["The promise of quick wealth proved illusory.", "Their sense of security was illusory."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "imbue",
-      "definition": "to inspire or permeate with a quality or feeling",
-      "partOfSpeech": "verb",
-      "sentences": ["The teacher imbued students with curiosity.", "The ceremony was imbued with tradition."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "immerse",
-      "definition": "to involve deeply in a particular activity",
-      "partOfSpeech": "verb",
-      "sentences": ["She immersed herself in her studies.", "The artist was immersed in his work."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impassive",
-      "definition": "not feeling or showing emotion",
-      "partOfSpeech": "adjective",
-      "sentences": ["His face remained impassive during the trial.", "She listened with an impassive expression."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impeccability",
-      "definition": "the quality of being without flaw or error",
-      "partOfSpeech": "noun",
-      "sentences": ["Her impeccability was admired by all.", "The impeccability of his work set high standards."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "imperil",
-      "definition": "to put at risk of harm or destruction",
-      "partOfSpeech": "verb",
-      "sentences": ["Pollution imperils marine life.", "His reckless behavior imperiled the mission."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impetus",
-      "definition": "the force or energy with which something moves",
-      "partOfSpeech": "noun",
-      "sentences": ["The scandal provided the impetus for reform.", "New funding gave impetus to the project."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "implore",
-      "definition": "to beg someone earnestly to do something",
-      "partOfSpeech": "verb",
-      "sentences": ["She implored him to stay.", "They implored the government for help."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impregnable",
-      "definition": "unable to be captured or broken into",
-      "partOfSpeech": "adjective",
-      "sentences": ["The fortress was considered impregnable.", "Her argument seemed impregnable."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "impunity",
-      "definition": "exemption from punishment or harmful consequences",
-      "partOfSpeech": "noun",
-      "sentences": ["He acted with impunity.", "They broke the rules with impunity."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inchoate",
-      "definition": "just begun and not fully formed",
-      "partOfSpeech": "adjective",
-      "sentences": ["The plan was still inchoate.", "She had only an inchoate understanding of the topic."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "incipient",
-      "definition": "beginning to happen or develop",
-      "partOfSpeech": "adjective",
-      "sentences": ["We detected incipient signs of rebellion.", "The incipient disease was caught early."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indebted",
-      "definition": "owing gratitude for a service or favor",
-      "partOfSpeech": "adjective",
-      "sentences": ["I am indebted to you for your help.", "She felt indebted to her mentors."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indelible",
-      "definition": "making marks that cannot be erased; unforgettable",
-      "partOfSpeech": "adjective",
-      "sentences": ["The experience left an indelible impression.", "Use indelible ink for official documents."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indictment",
-      "definition": "a formal accusation of a serious crime",
-      "partOfSpeech": "noun",
-      "sentences": ["The grand jury issued an indictment.", "The report was an indictment of the system."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indiscriminate",
-      "definition": "done at random or without careful judgment",
-      "partOfSpeech": "adjective",
-      "sentences": ["The bombing caused indiscriminate destruction.", "His indiscriminate praise meant little."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indispensable",
-      "definition": "absolutely necessary",
-      "partOfSpeech": "adjective",
-      "sentences": ["Water is indispensable to life.", "She became indispensable to the team."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indomitable",
-      "definition": "impossible to defeat or discourage",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her indomitable will kept her going.", "The team showed indomitable spirit."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "indulgent",
-      "definition": "having or indicating a readiness to be generous",
-      "partOfSpeech": "adjective",
-      "sentences": ["The indulgent grandmother spoiled her grandchildren.", "He was too indulgent with his employees."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "infer",
-      "definition": "to deduce from evidence and reasoning",
-      "partOfSpeech": "verb",
-      "sentences": ["We can infer her intentions from her actions.", "The detective inferred the truth."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "infinitesimal",
-      "definition": "extremely small",
-      "partOfSpeech": "adjective",
-      "sentences": ["The risk was infinitesimal.", "There was only an infinitesimal chance of success."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inflammatory",
-      "definition": "intended to arouse strong feelings",
-      "partOfSpeech": "adjective",
-      "sentences": ["His inflammatory remarks caused an uproar.", "The article was considered inflammatory."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "infuse",
-      "definition": "to fill with a quality or element",
-      "partOfSpeech": "verb",
-      "sentences": ["She infused the team with enthusiasm.", "The chef infused the oil with herbs."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inkling",
-      "definition": "a slight knowledge or suspicion",
-      "partOfSpeech": "noun",
-      "sentences": ["I had no inkling of what was to come.", "She gave me an inkling of the surprise."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inscrutable",
-      "definition": "impossible to understand or interpret",
-      "partOfSpeech": "adjective",
-      "sentences": ["His inscrutable expression gave nothing away.", "The ancient text remained inscrutable."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "insular",
-      "definition": "ignorant of or uninterested in outside views",
-      "partOfSpeech": "adjective",
-      "sentences": ["The insular community resisted change.", "His insular mindset limited his perspective."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "interloper",
-      "definition": "a person who becomes involved without invitation",
-      "partOfSpeech": "noun",
-      "sentences": ["The locals viewed the newcomer as an interloper.", "She felt like an interloper at the family gathering."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "interminable",
-      "definition": "endless or seeming to have no end",
-      "partOfSpeech": "adjective",
-      "sentences": ["The meeting seemed interminable.", "We endured interminable delays."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "intractable",
-      "definition": "hard to control or deal with",
-      "partOfSpeech": "adjective",
-      "sentences": ["The problem proved intractable.", "The intractable child refused to listen."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "intransigent",
-      "definition": "unwilling or refusing to change one's views",
-      "partOfSpeech": "adjective",
-      "sentences": ["The intransigent negotiators could not agree.", "Her intransigent attitude blocked progress."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "inure",
-      "definition": "to accustom to something unpleasant",
-      "partOfSpeech": "verb",
-      "sentences": ["Soldiers become inured to danger.", "Years of hardship inured her to suffering."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "invoke",
-      "definition": "to call upon as authority or support",
-      "partOfSpeech": "verb",
-      "sentences": ["She invoked the Fifth Amendment.", "He invoked the name of the law."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "irate",
-      "definition": "feeling or showing extreme anger",
-      "partOfSpeech": "adjective",
-      "sentences": ["The irate customer demanded a refund.", "He became irate when kept waiting."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "irksome",
-      "definition": "irritating or annoying",
-      "partOfSpeech": "adjective",
-      "sentences": ["The constant noise was irksome.", "She found his habits irksome."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "ironic",
-      "definition": "happening in a way contrary to what is expected",
-      "partOfSpeech": "adjective",
-      "sentences": ["It was ironic that the fire station burned down.", "She made an ironic comment about the delay."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "irresolute",
-      "definition": "showing or feeling hesitancy; uncertain",
-      "partOfSpeech": "adjective",
-      "sentences": ["The irresolute leader failed to act.", "She was irresolute about her career path."],
-      "startingLetter": "I"
-    },
-    {
-      "word": "jocular",
-      "definition": "fond of or characterized by joking",
-      "partOfSpeech": "adjective",
-      "sentences": ["His jocular manner put people at ease.", "She made a jocular remark about the weather."],
-      "startingLetter": "J"
-    },
-    {
-      "word": "lackluster",
-      "definition": "lacking in vitality, force, or conviction",
-      "partOfSpeech": "adjective",
-      "sentences": ["The team gave a lackluster performance.", "His lackluster speech failed to inspire."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lament",
-      "definition": "to express sorrow or regret about something",
-      "partOfSpeech": "verb",
-      "sentences": ["She lamented the loss of her friend.", "Critics lament the decline of traditional arts."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "legacy",
-      "definition": "something handed down from the past",
-      "partOfSpeech": "noun",
-      "sentences": ["The library is part of his legacy.", "She wanted to leave a lasting legacy."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lenient",
-      "definition": "merciful or tolerant",
-      "partOfSpeech": "adjective",
-      "sentences": ["The judge was lenient with first offenders.", "Her lenient parents rarely punished her."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lethal",
-      "definition": "sufficient to cause death",
-      "partOfSpeech": "adjective",
-      "sentences": ["The snake's venom is lethal.", "He faced a lethal combination of threats."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "linger",
-      "definition": "to stay in a place longer than necessary",
-      "partOfSpeech": "verb",
-      "sentences": ["The smell of perfume lingered in the room.", "He lingered at the party until midnight."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "listless",
-      "definition": "lacking energy or enthusiasm",
-      "partOfSpeech": "adjective",
-      "sentences": ["The heat made everyone listless.", "She felt listless after the illness."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "literal",
-      "definition": "taking words in their usual meaning without exaggeration",
-      "partOfSpeech": "adjective",
-      "sentences": ["His literal interpretation missed the humor.", "The literal meaning differs from the metaphorical one."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "litigate",
-      "definition": "to resolve a dispute in a court of law",
-      "partOfSpeech": "verb",
-      "sentences": ["They decided to litigate the matter.", "The company prefers to litigate rather than settle."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "loathe",
-      "definition": "to feel intense dislike or disgust for",
-      "partOfSpeech": "verb",
-      "sentences": ["She loathed getting up early.", "He loathed dishonesty in any form."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lofty",
-      "definition": "of imposing height; noble in nature",
-      "partOfSpeech": "adjective",
-      "sentences": ["The castle had lofty towers.", "She had lofty ideals."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lucrative",
-      "definition": "producing a great deal of profit",
-      "partOfSpeech": "adjective",
-      "sentences": ["The business proved to be lucrative.", "She turned her hobby into a lucrative career."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lull",
-      "definition": "a temporary interval of quiet or lack of activity",
-      "partOfSpeech": "noun",
-      "sentences": ["There was a lull in the conversation.", "The lull before the storm was eerie."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "lustrous",
-      "definition": "having a gentle sheen or soft glow",
-      "partOfSpeech": "adjective",
-      "sentences": ["Her lustrous hair caught the light.", "The pearl had a lustrous surface."],
-      "startingLetter": "L"
-    },
-    {
-      "word": "machination",
-      "definition": "a scheming or crafty action",
-      "partOfSpeech": "noun",
-      "sentences": ["The villain's machinations were exposed.", "Corporate machinations led to the scandal."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "maelstrom",
-      "definition": "a powerful whirlpool; a turbulent situation",
-      "partOfSpeech": "noun",
-      "sentences": ["The ship was caught in a maelstrom.", "The political maelstrom consumed the nation."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "magnate",
-      "definition": "a wealthy and influential person in business",
-      "partOfSpeech": "noun",
-      "sentences": ["The oil magnate donated millions to charity.", "She became a media magnate."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "malign",
-      "definition": "to speak about someone in a spitefully critical manner",
-      "partOfSpeech": "verb",
-      "sentences": ["Critics maligned her work unfairly.", "He was maligned by his political opponents."],
+      "definition": "capable of being shaped or transformed",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The malleable student volunteered to help others despite the risk."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "mandate",
-      "definition": "an official order or commission to do something",
-      "partOfSpeech": "noun",
-      "sentences": ["The law created a mandate for change.", "The president had a clear mandate from voters."],
+      "definition": "an authoritative command",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how mandate can affect an entire community."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "mar",
-      "definition": "to impair the quality or appearance of",
-      "partOfSpeech": "verb",
-      "sentences": ["Scratches marred the surface of the table.", "The scandal marred his reputation."],
+      "word": "manifold",
+      "definition": "diverse, varied",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The manifold response surprised even the critics."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "marshal",
-      "definition": "to arrange or assemble in order",
-      "partOfSpeech": "verb",
-      "sentences": ["She marshaled her thoughts before speaking.", "The general marshaled his troops."],
+      "word": "maudlin",
+      "definition": "weakly sentimental",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a maudlin act that changed the course of history."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "martyr",
-      "definition": "a person who suffers for a cause or belief",
-      "partOfSpeech": "noun",
-      "sentences": ["He was considered a martyr for the cause.", "She portrayed herself as a martyr."],
+      "word": "maverick",
+      "definition": "an independent, nonconformist person",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of maverick in difficult times."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "masquerade",
-      "definition": "to pretend to be someone one is not",
-      "partOfSpeech": "verb",
-      "sentences": ["He masqueraded as a doctor.", "The email masqueraded as official correspondence."],
+      "word": "mawkish",
+      "definition": "characterized by sick sentimentality",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her mawkish attitude impressed everyone in the room."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "maxim",
-      "definition": "a short statement expressing a general truth",
-      "partOfSpeech": "noun",
-      "sentences": ["He lived by the maxim to treat others well.", "The old maxim still holds true."],
+      "definition": "a common saying expressing a principle of conduct",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of maxim in difficult times."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "meager",
-      "definition": "lacking in quantity or quality",
-      "partOfSpeech": "adjective",
-      "sentences": ["The refugees survived on meager rations.", "His meager salary barely covered expenses."],
+      "definition": "deﬁcient in size or quality",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The meager response surprised even the critics."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "meddle",
-      "definition": "to interfere in something that is not one's concern",
-      "partOfSpeech": "verb",
-      "sentences": ["She didn't want to meddle in their affairs.", "Stop meddling in my business."],
+      "word": "medley",
+      "definition": "a mixture of differing things",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked medley."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "menace",
-      "definition": "a person or thing that threatens danger or harm",
-      "partOfSpeech": "noun",
-      "sentences": ["The storm was a menace to shipping.", "He was considered a menace to society."],
+      "word": "mendacious",
+      "definition": "having a lying, false character",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The mendacious response surprised even the critics."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "mentor",
-      "definition": "an experienced and trusted adviser",
-      "partOfSpeech": "noun",
-      "sentences": ["She found a mentor to guide her career.", "The mentor shared valuable insights."],
+      "word": "mercurial",
+      "definition": "characterized by rapid change or temperamentality",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The mercurial student volunteered to help others despite the risk."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "mercenary",
-      "definition": "primarily concerned with making money",
-      "partOfSpeech": "adjective",
-      "sentences": ["His mercenary motives were obvious.", "The mercenary soldiers fought for pay."],
+      "word": "meritorious",
+      "definition": "worthy of esteem or reward",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her meritorious attitude impressed everyone in the room."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "mire",
-      "definition": "to involve in difficulties; a swampy ground",
-      "partOfSpeech": "verb",
-      "sentences": ["The project was mired in controversy.", "The car got mired in mud."],
+      "word": "metamorphosis",
+      "definition": "the change of form, shape, substance",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of metamorphosis on society."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "misconstrue",
-      "definition": "to interpret wrongly",
-      "partOfSpeech": "verb",
-      "sentences": ["His words were misconstrued by the media.", "Don't misconstrue my silence as agreement."],
+      "word": "meticulous",
+      "definition": "extremely careful with details",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The meticulous response surprised even the critics."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "misgiving",
-      "definition": "a feeling of doubt or apprehension",
-      "partOfSpeech": "noun",
-      "sentences": ["She had misgivings about the plan.", "Despite his misgivings, he agreed to help."],
-      "startingLetter": "M"
-    },
-    {
-      "word": "mock",
-      "definition": "to tease or laugh at in a scornful manner",
-      "partOfSpeech": "verb",
-      "sentences": ["The bullies mocked his accent.", "She mocked his attempts to dance."],
+      "word": "mitigate",
+      "definition": "to make less violent, alleviate",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to mitigate the outdated law."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "modicum",
-      "definition": "a small quantity of something",
-      "partOfSpeech": "noun",
-      "sentences": ["She had a modicum of talent.", "A modicum of common sense would help."],
+      "definition": "a small amount of something",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how modicum can affect an entire community."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "moribund",
-      "definition": "at the point of death; lacking vitality",
-      "partOfSpeech": "adjective",
-      "sentences": ["The moribund industry needed reform.", "The patient was moribund."],
+      "word": "modulate",
+      "definition": "to pass from one state to another, especially in music",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often modulate students who show exceptional effort."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "motley",
-      "definition": "incongruously varied in appearance or character",
-      "partOfSpeech": "adjective",
-      "sentences": ["The motley crew assembled for the mission.", "A motley collection of items filled the room."],
+      "word": "mollify",
+      "definition": "to soften in temper",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to mollify the problem before it grew worse."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "multifaceted",
-      "definition": "having many facets or aspects",
-      "partOfSpeech": "adjective",
-      "sentences": ["The issue is multifaceted and complex.", "She had a multifaceted career."],
+      "word": "mores",
+      "definition": "the moral attitudes and ﬁxed customs of a group of people.",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked mores."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "muse",
-      "definition": "to be absorbed in thought",
-      "partOfSpeech": "verb",
-      "sentences": ["She mused about her future.", "He mused on the meaning of life."],
+      "word": "morose",
+      "definition": "gloomy or sullen",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The morose response surprised even the critics."
+      ],
+      "startingLetter": "M"
+    },
+    {
+      "word": "multifarious",
+      "definition": "having great diversity or variety",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The multifarious student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "M"
+    },
+    {
+      "word": "mundane",
+      "definition": "concerned with the world rather than with heaven, commonplace",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a mundane act that changed the course of history."
+      ],
       "startingLetter": "M"
     },
     {
       "word": "mutable",
-      "definition": "liable to change",
-      "partOfSpeech": "adjective",
-      "sentences": ["Fashion is highly mutable.", "Human nature is mutable."],
+      "definition": "able to change",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a mutable act that changed the course of history."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "mute",
-      "definition": "refraining from speech or temporarily speechless",
-      "partOfSpeech": "adjective",
-      "sentences": ["She remained mute during the questioning.", "The mute witness could not testify."],
+      "word": "myriad",
+      "definition": "consisting of a very great number",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a myriad act that changed the course of history."
+      ],
       "startingLetter": "M"
     },
     {
-      "word": "mutiny",
-      "definition": "an open rebellion against authority",
-      "partOfSpeech": "noun",
-      "sentences": ["The sailors staged a mutiny.", "There was talk of mutiny among the crew."],
-      "startingLetter": "M"
+      "word": "nadir",
+      "definition": "the lowest point of something",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked nadir."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nascent",
+      "definition": "in the process of being born or coming into existence",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her nascent attitude impressed everyone in the room."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nebulous",
+      "definition": "vaguely deﬁned, cloudy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The nebulous response surprised even the critics."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nefarious",
+      "definition": "heinously villainous",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The nefarious student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "negligent",
+      "definition": "habitually careless, neglectful",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The negligent student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "neophyte",
+      "definition": "someone who is young or inexperienced",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of neophyte on society."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nocturnal",
+      "definition": "relating to or occurring during the night",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The nocturnal student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "noisome",
+      "definition": "unpleasant, offensive, especially to the sense of smell",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The noisome response surprised even the critics."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nomadic",
+      "definition": "wandering from place to place",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her nomadic attitude impressed everyone in the room."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nominal",
+      "definition": "triﬂing, insigniﬁcant",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a nominal act that changed the course of history."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nonchalant",
+      "definition": "having a lack of concern, indifference",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her nonchalant attitude impressed everyone in the room."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nondescript",
+      "definition": "lacking a distinctive character",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The nondescript student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "notorious",
+      "definition": "widely and unfavorably known",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The notorious student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "novice",
+      "definition": "a beginner, someone without training or experience",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how novice can affect an entire community."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "noxious",
+      "definition": "harmful, unwholesome",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her noxious attitude impressed everyone in the room."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nuance",
+      "definition": "a slight variation in meaning, tone, expression",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of nuance in difficult times."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "nurture",
+      "definition": "to assist the development of",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "He tried to nurture the problem before it grew worse."
+      ],
+      "startingLetter": "N"
+    },
+    {
+      "word": "obdurate",
+      "definition": "unyielding to persuasion or moral inﬂuences",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her obdurate attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obfuscate",
+      "definition": "to render incomprehensible",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often obfuscate students who show exceptional effort."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "oblivious",
+      "definition": "lacking consciousness or awareness of something",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The oblivious response surprised even the critics."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obscure",
+      "definition": "unclear, partially hidden",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her obscure attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obsequious",
+      "definition": "excessively compliant or submissive",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The obsequious student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obsolete",
+      "definition": "no longer used, out of date",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a obsolete act that changed the course of history."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obstinate",
+      "definition": "not yielding easily, stubborn",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her obstinate attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obstreperous",
+      "definition": "noisy, unruly",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The obstreperous student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "obtuse",
+      "definition": "lacking quickness of sensibility or intellect",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a obtuse act that changed the course of history."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "odious",
+      "definition": "instilling hatred or intense displeasure",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her odious attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "ominous",
+      "definition": "foreboding or foreshadowing evil",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ominous response surprised even the critics."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "onerous",
+      "definition": "burdensome",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The onerous response surprised even the critics."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "opulent",
+      "definition": "characterized by rich abundance verging on ostentation",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her opulent attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "oration",
+      "definition": "a speech delivered in a formal or ceremonious manner",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of oration on society."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "ornate",
+      "definition": "highly elaborate, excessively decorated",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The ornate response surprised even the critics."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "orthodox",
+      "definition": "conventional, conforming to established protocol",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The orthodox student volunteered to help others despite the risk."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "oscillate",
+      "definition": "to sway from one side to the other",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "Teachers often oscillate students who show exceptional effort."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "ostensible",
+      "definition": "appearing as such, seemingly",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her ostensible attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "ostentatious",
+      "definition": "excessively showy, glitzy",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her ostentatious attitude impressed everyone in the room."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "ostracism",
+      "definition": "exclusion from a group",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The novel explores the consequences of unchecked ostracism."
+      ],
+      "startingLetter": "O"
+    },
+    {
+      "word": "palatable",
+      "definition": "agreeable to the taste or sensibilities",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a palatable act that changed the course of history."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "palette",
+      "definition": "a range of colors or qualities",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her palette attitude impressed everyone in the room."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "palliate",
+      "definition": "to reduce the severity of",
+      "partOfSpeech": "v.",
+      "sentences": [
+        "The government decided to palliate the outdated law."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "pallid",
+      "definition": "lacking color",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "The pallid response surprised even the critics."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "panacea",
+      "definition": "a remedy for all ills or difﬁculties",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how panacea can affect an entire community."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "paradigm",
+      "definition": "an example that is a perfect pattern or model",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of paradigm in difficult times."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "paragon",
+      "definition": "a model of excellence or perfection",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of paragon on society."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "paramount",
+      "definition": "greatest in importance, rank, character",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a paramount act that changed the course of history."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "pariah",
+      "definition": "an outcast",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "This event shows the impact of pariah on society."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "parody",
+      "definition": "a satirical imitation",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how parody can affect an entire community."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "parsimony",
+      "definition": "frugality, stinginess",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "His actions became a symbol of parsimony in difficult times."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "partisan",
+      "definition": "a follower, adherent",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how partisan can affect an entire community."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "patent",
+      "definition": "readily seen or understood, clear",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "Her patent attitude impressed everyone in the room."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "pathology",
+      "definition": "a deviation from the normal",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how pathology can affect an entire community."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "pathos",
+      "definition": "an emotion of sympathy",
+      "partOfSpeech": "n.",
+      "sentences": [
+        "The story illustrates how pathos can affect an entire community."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "paucity",
+      "definition": "small in quantity",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a paucity act that changed the course of history."
+      ],
+      "startingLetter": "P"
+    },
+    {
+      "word": "pejorative",
+      "definition": "derogatory, uncomplimentary",
+      "partOfSpeech": "adj.",
+      "sentences": [
+        "It was a pejorative act that changed the course of history."
+      ],
+      "startingLetter": "P"
     }
   ]
 }
