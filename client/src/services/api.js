@@ -9,4 +9,13 @@ const api = axios.create({
   }
 });
 
+// Add session token to all requests
+api.interceptors.request.use((config) => {
+  const sessionToken = localStorage.getItem('sessionToken');
+  if (sessionToken) {
+    config.headers['x-session-token'] = sessionToken;
+  }
+  return config;
+});
+
 export default api;

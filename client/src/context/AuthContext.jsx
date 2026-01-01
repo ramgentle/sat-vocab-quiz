@@ -22,8 +22,8 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
-  const login = () => {
-    window.location.href = authService.getGoogleLoginUrl();
+  const refreshUser = async () => {
+    await checkAuth();
   };
 
   const logout = async () => {
@@ -36,7 +36,7 @@ export const AuthProvider = ({ children }) => {
   };
 
   return (
-    <AuthContext.Provider value={{ user, loading, login, logout, checkAuth }}>
+    <AuthContext.Provider value={{ user, loading, logout, checkAuth, refreshUser }}>
       {children}
     </AuthContext.Provider>
   );

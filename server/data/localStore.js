@@ -2,8 +2,46 @@ const fs = require('fs');
 const path = require('path');
 
 let words = [];
+let users = [];
 let quizSessions = new Map();
 let userProgress = new Map();
+let userSessions = new Map(); // Track logged-in users by session token
+
+function loadUsers() {
+  try {
+    const usersPath = path.join(__dirname, 'users.json');
+    const data = JSON.parse(fs.readFileSync(usersPath, 'utf-8'));
+    users = data.users;
+    console.log(`Loaded ${users.length} users`);
+  } catch (error) {
+    console.error('Error loading users:', error.message);
+    users = [];
+  }
+  return users;
+}
+
+function authenticateUser(username, password) {
+  const user = users.find(u => u.username === username && u.password === password);
+  if (user) {
+    const sessionToken = `session_${user.id}_${Date.now()}`;
+    userSessions.set(sessionToken, {
+      userId: user.id,
+      username: user.username,
+      displayName: user.displayName,
+      loginTime: new Date()
+    });
+    return { success: true, sessionToken, user: { id: user.id, username: user.username, displayName: user.displayName } };
+  }
+  return { success: false, message: 'Invalid username or password' };
+}
+
+function getUserBySession(sessionToken) {
+  return userSessions.get(sessionToken);
+}
+
+function logoutUser(sessionToken) {
+  userSessions.delete(sessionToken);
+}
 
 function loadWords() {
   const dataDir = __dirname;
@@ -123,6 +161,10 @@ function getCompletedQuizSessions(userId) {
 
 module.exports = {
   loadWords,
+  loadUsers,
+  authenticateUser,
+  getUserBySession,
+  logoutUser,
   getAllWords,
   getWordById,
   getWordsByLetter,

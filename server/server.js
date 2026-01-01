@@ -9,8 +9,9 @@ const progressRoutes = require('./routes/progressRoutes');
 
 const app = express();
 
-// Load words from JSON files
+// Load words and users from JSON files
 localStore.loadWords();
+localStore.loadUsers();
 
 app.use(cors({
   origin: true,
@@ -25,17 +26,50 @@ app.use('/api/words', wordRoutes);
 app.use('/api/quiz', quizRoutes);
 app.use('/api/progress', progressRoutes);
 
-// Auth routes - simplified for local dev
-app.get('/api/auth/user', (req, res) => {
-  res.json({
-    _id: 'local-user',
-    displayName: 'Local User',
-    email: 'local@test.com',
-    isAuthenticated: true
-  });
+// Auth routes with username/password login
+app.post('/api/auth/login', (req, res) => {
+  const { username, password } = req.body;
+  const result = localStore.authenticateUser(username, password);
+
+  if (result.success) {
+    res.json({
+      success: true,
+      sessionToken: result.sessionToken,
+      user: {
+        _id: result.user.id,
+        displayName: result.user.displayName,
+        username: result.user.username,
+        isAuthenticated: true
+      }
+    });
+  } else {
+    res.status(401).json({ success: false, message: result.message });
+  }
 });
 
-app.get('/api/auth/logout', (req, res) => {
+app.get('/api/auth/user', (req, res) => {
+  const sessionToken = req.headers['x-session-token'];
+
+  if (sessionToken) {
+    const session = localStore.getUserBySession(sessionToken);
+    if (session) {
+      return res.json({
+        _id: session.userId,
+        displayName: session.displayName,
+        username: session.username,
+        isAuthenticated: true
+      });
+    }
+  }
+
+  res.json({ isAuthenticated: false });
+});
+
+app.post('/api/auth/logout', (req, res) => {
+  const sessionToken = req.headers['x-session-token'];
+  if (sessionToken) {
+    localStore.logoutUser(sessionToken);
+  }
   res.json({ message: 'Logged out' });
 });
 

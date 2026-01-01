@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "username": "student1",
+      "password": "vocab2024",
+      "displayName": "Student One"
+    },
+    {
+      "id": "user2",
+      "username": "student2",
+      "password": "words2024",
+      "displayName": "Student Two"
+    }
+  ]
+}
