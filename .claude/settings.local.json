@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm init:*)",
+      "Bash(curl:*)",
+      "Bash(powershell -Command \"Start-Process -NoNewWindow -FilePath ''npm'' -ArgumentList ''run'', ''dev'' -WorkingDirectory ''e:/ClaudeProject/SAT English Words Trivia/client''\")",
+      "Bash(npm run dev:*)",
+      "Bash(ping:*)",
+      "Bash(node -e:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(where:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
