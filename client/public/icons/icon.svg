@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#4a90d9"/>
+  <text x="256" y="200" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="white" text-anchor="middle">SAT</text>
+  <text x="256" y="340" font-family="Arial, sans-serif" font-size="80" fill="white" text-anchor="middle">VOCAB</text>
+  <rect x="120" y="380" width="272" height="8" rx="4" fill="rgba(255,255,255,0.6)"/>
+  <rect x="120" y="380" width="180" height="8" rx="4" fill="white"/>
+</svg>
