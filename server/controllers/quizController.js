@@ -128,6 +128,22 @@ const completeQuiz = async (req, res) => {
       isCompleted: true
     });
 
+    // Update user progress statistics
+    const userId = session.userId;
+    const progress = localStore.getUserProgress(userId);
+    const stats = progress.statistics;
+
+    stats.totalQuizzesTaken = (stats.totalQuizzesTaken || 0) + 1;
+    stats.totalWordsStudied = (stats.totalWordsStudied || 0) + session.words.length;
+    stats.bestScore = Math.max(stats.bestScore || 0, percentage);
+    stats.lastStudyDate = new Date();
+
+    // Calculate new average
+    const totalScores = (stats.averageScore || 0) * (stats.totalQuizzesTaken - 1) + percentage;
+    stats.averageScore = Math.round(totalScores / stats.totalQuizzesTaken);
+
+    localStore.updateUserProgress(userId, { statistics: stats });
+
     res.json({
       score: { correct, incorrect, percentage },
       totalQuestions: session.words.length,

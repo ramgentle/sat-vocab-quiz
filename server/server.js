@@ -21,6 +21,22 @@ app.use(cors({
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// Middleware to extract user from session token
+app.use((req, res, next) => {
+  const sessionToken = req.headers['x-session-token'];
+  if (sessionToken) {
+    const session = localStore.getUserBySession(sessionToken);
+    if (session) {
+      req.user = {
+        _id: session.userId,
+        displayName: session.displayName,
+        username: session.username
+      };
+    }
+  }
+  next();
+});
+
 // API Routes
 app.use('/api/words', wordRoutes);
 app.use('/api/quiz', quizRoutes);
