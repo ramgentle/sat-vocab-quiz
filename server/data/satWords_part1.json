@@ -7,7 +7,8 @@
       "sentences": [
         "It was a aerial act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "aesthetic",
@@ -16,7 +17,8 @@
       "sentences": [
         "It was a aesthetic act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "affable",
@@ -25,7 +27,8 @@
       "sentences": [
         "The affable student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "affront",
@@ -34,7 +37,8 @@
       "sentences": [
         "This event shows the impact of affront on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "aggrandize",
@@ -43,7 +47,8 @@
       "sentences": [
         "He tried to aggrandize the problem before it grew worse."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "aggrieved",
@@ -52,7 +57,8 @@
       "sentences": [
         "The aggrieved response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "agile",
@@ -61,7 +67,8 @@
       "sentences": [
         "The agile response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "agnostic",
@@ -70,7 +77,8 @@
       "sentences": [
         "The agnostic student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "agriculture",
@@ -79,7 +87,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked agriculture."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "aisle",
@@ -88,7 +97,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked aisle."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "alacrity",
@@ -97,7 +107,8 @@
       "sentences": [
         "The story illustrates how alacrity can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "alias",
@@ -106,7 +117,8 @@
       "sentences": [
         "The story illustrates how alias can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "allay",
@@ -115,7 +127,8 @@
       "sentences": [
         "The team agreed to allay their strategy after the loss."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "allege",
@@ -124,7 +137,8 @@
       "sentences": [
         "Teachers often allege students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "alleviate",
@@ -133,7 +147,8 @@
       "sentences": [
         "The government decided to alleviate the outdated law."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "allocate",
@@ -142,7 +157,8 @@
       "sentences": [
         "The team agreed to allocate their strategy after the loss."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "aloof",
@@ -151,7 +167,8 @@
       "sentences": [
         "Her aloof attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "altercation",
@@ -160,7 +177,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked altercation."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "amalgamate",
@@ -169,7 +187,8 @@
       "sentences": [
         "He tried to amalgamate the problem before it grew worse."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "ambiguous",
@@ -178,7 +197,8 @@
       "sentences": [
         "The ambiguous response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "ambivalent",
@@ -187,7 +207,8 @@
       "sentences": [
         "Her ambivalent attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "ameliorate",
@@ -196,7 +217,8 @@
       "sentences": [
         "The government decided to ameliorate the outdated law."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "amenable",
@@ -205,7 +227,8 @@
       "sentences": [
         "Her amenable attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "amenity",
@@ -214,7 +237,8 @@
       "sentences": [
         "This event shows the impact of amenity on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "amiable",
@@ -223,7 +247,8 @@
       "sentences": [
         "The amiable student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "amicable",
@@ -232,7 +257,8 @@
       "sentences": [
         "It was a amicable act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "amorous",
@@ -241,7 +267,8 @@
       "sentences": [
         "It was a amorous act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "amorphous",
@@ -250,7 +277,8 @@
       "sentences": [
         "The amorphous student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "anachronistic",
@@ -259,7 +287,8 @@
       "sentences": [
         "It was a anachronistic act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "analgesic",
@@ -268,7 +297,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked analgesic."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "analogous",
@@ -277,7 +307,8 @@
       "sentences": [
         "The analogous student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "anarchist",
@@ -286,7 +317,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked anarchist."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "anathema",
@@ -295,7 +327,8 @@
       "sentences": [
         "The story illustrates how anathema can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "anesthesia",
@@ -304,7 +337,8 @@
       "sentences": [
         "His actions became a symbol of anesthesia in difficult times."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "anguish",
@@ -313,7 +347,8 @@
       "sentences": [
         "The story illustrates how anguish can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "animated",
@@ -322,7 +357,8 @@
       "sentences": [
         "It was a animated act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "annul",
@@ -331,7 +367,8 @@
       "sentences": [
         "Teachers often annul students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "anomaly",
@@ -340,7 +377,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked anomaly."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "anonymous",
@@ -349,7 +387,8 @@
       "sentences": [
         "It was a anonymous act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "antagonism",
@@ -358,7 +397,8 @@
       "sentences": [
         "The story illustrates how antagonism can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "antecedent",
@@ -367,7 +407,8 @@
       "sentences": [
         "This event shows the impact of antecedent on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "antediluvian",
@@ -376,7 +417,8 @@
       "sentences": [
         "It was a antediluvian act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "anthology",
@@ -385,7 +427,8 @@
       "sentences": [
         "This event shows the impact of anthology on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "antipathy",
@@ -394,7 +437,8 @@
       "sentences": [
         "This event shows the impact of antipathy on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "antiquated",
@@ -403,7 +447,8 @@
       "sentences": [
         "The antiquated response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "antiseptic",
@@ -412,7 +457,8 @@
       "sentences": [
         "Her antiseptic attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "antithesis",
@@ -421,7 +467,8 @@
       "sentences": [
         "This event shows the impact of antithesis on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "anxiety",
@@ -430,7 +477,8 @@
       "sentences": [
         "The story illustrates how anxiety can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "apathetic",
@@ -439,7 +487,8 @@
       "sentences": [
         "Her apathetic attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "apocryphal",
@@ -448,7 +497,8 @@
       "sentences": [
         "The apocryphal response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "appalling",
@@ -457,7 +507,8 @@
       "sentences": [
         "It was a appalling act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "appease",
@@ -466,7 +517,8 @@
       "sentences": [
         "Teachers often appease students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "appraise",
@@ -475,7 +527,8 @@
       "sentences": [
         "Teachers often appraise students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "approbation",
@@ -484,7 +537,8 @@
       "sentences": [
         "His actions became a symbol of approbation in difficult times."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "appropriate",
@@ -493,7 +547,8 @@
       "sentences": [
         "Teachers often appropriate students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "aquatic",
@@ -502,7 +557,8 @@
       "sentences": [
         "Her aquatic attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "arable",
@@ -511,7 +567,8 @@
       "sentences": [
         "Her arable attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "arbiter",
@@ -520,7 +577,8 @@
       "sentences": [
         "This event shows the impact of arbiter on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "arbitrary",
@@ -529,7 +587,8 @@
       "sentences": [
         "It was a arbitrary act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "arbitration",
@@ -538,7 +597,8 @@
       "sentences": [
         "This event shows the impact of arbitration on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "arboreal",
@@ -547,7 +607,8 @@
       "sentences": [
         "The arboreal response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "archaic",
@@ -556,7 +617,8 @@
       "sentences": [
         "It was a archaic act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "archetypal",
@@ -565,7 +627,8 @@
       "sentences": [
         "Her archetypal attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "ardor",
@@ -574,7 +637,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked ardor."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "arid",
@@ -583,7 +647,8 @@
       "sentences": [
         "The arid student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "arrogate",
@@ -592,7 +657,8 @@
       "sentences": [
         "The government decided to arrogate the outdated law."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "artifact",
@@ -601,7 +667,8 @@
       "sentences": [
         "His actions became a symbol of artifact in difficult times."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "artisan",
@@ -610,7 +677,8 @@
       "sentences": [
         "This event shows the impact of artisan on society."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "ascertain",
@@ -619,7 +687,8 @@
       "sentences": [
         "He tried to ascertain the problem before it grew worse."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "ascetic",
@@ -628,7 +697,8 @@
       "sentences": [
         "The ascetic student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "ascribe",
@@ -637,7 +707,8 @@
       "sentences": [
         "He tried to ascribe the problem before it grew worse."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "aspersion",
@@ -646,7 +717,8 @@
       "sentences": [
         "The story illustrates how aspersion can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "aspire",
@@ -655,7 +727,8 @@
       "sentences": [
         "He tried to aspire the problem before it grew worse."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "assail",
@@ -664,7 +737,8 @@
       "sentences": [
         "The team agreed to assail their strategy after the loss."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "assess",
@@ -673,7 +747,8 @@
       "sentences": [
         "The team agreed to assess their strategy after the loss."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "assiduous",
@@ -682,7 +757,8 @@
       "sentences": [
         "The assiduous response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "assuage",
@@ -691,7 +767,8 @@
       "sentences": [
         "The team agreed to assuage their strategy after the loss."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "astute",
@@ -700,7 +777,8 @@
       "sentences": [
         "The astute response surprised even the critics."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "atone",
@@ -709,7 +787,8 @@
       "sentences": [
         "The government decided to atone the outdated law."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "atrophy",
@@ -718,7 +797,8 @@
       "sentences": [
         "The government decided to atrophy the outdated law."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "attain",
@@ -727,7 +807,8 @@
       "sentences": [
         "Teachers often attain students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "atypical",
@@ -736,7 +817,8 @@
       "sentences": [
         "It was a atypical act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "audacious",
@@ -745,7 +827,8 @@
       "sentences": [
         "Her audacious attitude impressed everyone in the room."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "audible",
@@ -754,7 +837,8 @@
       "sentences": [
         "It was a audible act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "augment",
@@ -763,7 +847,8 @@
       "sentences": [
         "He tried to augment the problem before it grew worse."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "auspicious",
@@ -772,7 +857,8 @@
       "sentences": [
         "The auspicious student volunteered to help others despite the risk."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "high"
     },
     {
       "word": "austere",
@@ -781,7 +867,8 @@
       "sentences": [
         "It was a austere act that changed the course of history."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "avarice",
@@ -790,7 +877,8 @@
       "sentences": [
         "The story illustrates how avarice can affect an entire community."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "avenge",
@@ -799,7 +887,8 @@
       "sentences": [
         "Teachers often avenge students who show exceptional effort."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "simple"
     },
     {
       "word": "aversion",
@@ -808,7 +897,8 @@
       "sentences": [
         "His actions became a symbol of aversion in difficult times."
       ],
-      "startingLetter": "A"
+      "startingLetter": "A",
+      "complexity": "medium"
     },
     {
       "word": "balk",
@@ -817,7 +907,8 @@
       "sentences": [
         "Teachers often balk students who show exceptional effort."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "ballad",
@@ -826,7 +917,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked ballad."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "banal",
@@ -835,7 +927,8 @@
       "sentences": [
         "Her banal attitude impressed everyone in the room."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bane",
@@ -844,7 +937,8 @@
       "sentences": [
         "The story illustrates how bane can affect an entire community."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bard",
@@ -853,7 +947,8 @@
       "sentences": [
         "His actions became a symbol of bard in difficult times."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bashful",
@@ -862,7 +957,8 @@
       "sentences": [
         "The bashful student volunteered to help others despite the risk."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "beguile",
@@ -871,7 +967,8 @@
       "sentences": [
         "Teachers often beguile students who show exceptional effort."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "behemoth",
@@ -880,7 +977,8 @@
       "sentences": [
         "His actions became a symbol of behemoth in difficult times."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "benevolent",
@@ -889,7 +987,8 @@
       "sentences": [
         "Her benevolent attitude impressed everyone in the room."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "high"
     },
     {
       "word": "benign",
@@ -898,7 +997,8 @@
       "sentences": [
         "Her benign attitude impressed everyone in the room."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bequeath",
@@ -907,7 +1007,8 @@
       "sentences": [
         "The government decided to bequeath the outdated law."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "berate",
@@ -916,7 +1017,8 @@
       "sentences": [
         "The government decided to berate the outdated law."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bereft",
@@ -925,7 +1027,8 @@
       "sentences": [
         "The bereft student volunteered to help others despite the risk."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "beseech",
@@ -934,7 +1037,8 @@
       "sentences": [
         "He tried to beseech the problem before it grew worse."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "bias",
@@ -943,7 +1047,8 @@
       "sentences": [
         "The story illustrates how bias can affect an entire community."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bilk",
@@ -952,7 +1057,8 @@
       "sentences": [
         "The team agreed to bilk their strategy after the loss."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "blandish",
@@ -961,7 +1067,8 @@
       "sentences": [
         "The government decided to blandish the outdated law."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "blemish",
@@ -970,7 +1077,8 @@
       "sentences": [
         "The story illustrates how blemish can affect an entire community."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "boisterous",
@@ -979,7 +1087,8 @@
       "sentences": [
         "The boisterous student volunteered to help others despite the risk."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "high"
     },
     {
       "word": "bombastic",
@@ -988,7 +1097,8 @@
       "sentences": [
         "Her bombastic attitude impressed everyone in the room."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "boon",
@@ -997,7 +1107,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked boon."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "bourgeois",
@@ -1006,7 +1117,8 @@
       "sentences": [
         "The story illustrates how bourgeois can affect an entire community."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "brazen",
@@ -1015,7 +1127,8 @@
       "sentences": [
         "The brazen student volunteered to help others despite the risk."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "simple"
     },
     {
       "word": "brusque",
@@ -1024,7 +1137,8 @@
       "sentences": [
         "The brusque response surprised even the critics."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "burnish",
@@ -1033,7 +1147,8 @@
       "sentences": [
         "He tried to burnish the problem before it grew worse."
       ],
-      "startingLetter": "B"
+      "startingLetter": "B",
+      "complexity": "medium"
     },
     {
       "word": "cacophony",
@@ -1042,7 +1157,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked cacophony."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cajole",
@@ -1051,7 +1167,8 @@
       "sentences": [
         "The government decided to cajole the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "calamity",
@@ -1060,7 +1177,8 @@
       "sentences": [
         "This event shows the impact of calamity on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "calibrate",
@@ -1069,7 +1187,8 @@
       "sentences": [
         "He tried to calibrate the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "callous",
@@ -1078,7 +1197,8 @@
       "sentences": [
         "Her callous attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "calumny",
@@ -1087,7 +1207,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked calumny."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "camaraderie",
@@ -1096,7 +1217,8 @@
       "sentences": [
         "This event shows the impact of camaraderie on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "candor",
@@ -1105,7 +1227,8 @@
       "sentences": [
         "This event shows the impact of candor on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "canny",
@@ -1114,7 +1237,8 @@
       "sentences": [
         "The canny response surprised even the critics."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "capacious",
@@ -1123,7 +1247,8 @@
       "sentences": [
         "It was a capacious act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "capitulate",
@@ -1132,7 +1257,8 @@
       "sentences": [
         "The government decided to capitulate the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "capricious",
@@ -1141,7 +1267,8 @@
       "sentences": [
         "The capricious response surprised even the critics."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "captivate",
@@ -1150,7 +1277,8 @@
       "sentences": [
         "He tried to captivate the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "carouse",
@@ -1159,7 +1287,8 @@
       "sentences": [
         "The government decided to carouse the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "carp",
@@ -1168,7 +1297,8 @@
       "sentences": [
         "The team agreed to carp their strategy after the loss."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "catalyze",
@@ -1177,7 +1307,8 @@
       "sentences": [
         "The government decided to catalyze the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "caucus",
@@ -1186,7 +1317,8 @@
       "sentences": [
         "His actions became a symbol of caucus in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "caustic",
@@ -1195,7 +1327,8 @@
       "sentences": [
         "It was a caustic act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cavort",
@@ -1204,7 +1337,8 @@
       "sentences": [
         "He tried to cavort the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "cerebral",
@@ -1213,7 +1347,8 @@
       "sentences": [
         "It was a cerebral act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "chaos",
@@ -1222,7 +1357,8 @@
       "sentences": [
         "His actions became a symbol of chaos in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "chastise",
@@ -1231,7 +1367,8 @@
       "sentences": [
         "The team agreed to chastise their strategy after the loss."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cherish",
@@ -1240,7 +1377,8 @@
       "sentences": [
         "He tried to cherish the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "chide",
@@ -1249,7 +1387,8 @@
       "sentences": [
         "He tried to chide the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "choreography",
@@ -1258,7 +1397,8 @@
       "sentences": [
         "His actions became a symbol of choreography in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "chronological",
@@ -1267,7 +1407,8 @@
       "sentences": [
         "The chronological student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "circumlocution",
@@ -1276,7 +1417,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked circumlocution."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "circumscribed",
@@ -1285,7 +1427,8 @@
       "sentences": [
         "The circumscribed response surprised even the critics."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "circumspect",
@@ -1294,7 +1437,8 @@
       "sentences": [
         "The circumspect student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "circumvent",
@@ -1303,7 +1447,8 @@
       "sentences": [
         "Teachers often circumvent students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "clairvoyant",
@@ -1312,7 +1457,8 @@
       "sentences": [
         "Her clairvoyant attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "clandestine",
@@ -1321,7 +1467,8 @@
       "sentences": [
         "It was a clandestine act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "clemency",
@@ -1330,7 +1477,8 @@
       "sentences": [
         "The story illustrates how clemency can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "clergy",
@@ -1339,7 +1487,8 @@
       "sentences": [
         "The story illustrates how clergy can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "cloying",
@@ -1348,7 +1497,8 @@
       "sentences": [
         "The cloying student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "coagulate",
@@ -1357,7 +1507,8 @@
       "sentences": [
         "Teachers often coagulate students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "coalesce",
@@ -1366,7 +1517,8 @@
       "sentences": [
         "Teachers often coalesce students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cobbler",
@@ -1375,7 +1527,8 @@
       "sentences": [
         "The story illustrates how cobbler can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "coerce",
@@ -1384,7 +1537,8 @@
       "sentences": [
         "The government decided to coerce the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "cogent",
@@ -1393,7 +1547,8 @@
       "sentences": [
         "It was a cogent act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "cognizant",
@@ -1402,7 +1557,8 @@
       "sentences": [
         "Her cognizant attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "coherent",
@@ -1411,7 +1567,8 @@
       "sentences": [
         "It was a coherent act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "colloquial",
@@ -1420,7 +1577,8 @@
       "sentences": [
         "It was a colloquial act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "collusion",
@@ -1429,7 +1587,8 @@
       "sentences": [
         "This event shows the impact of collusion on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "colossus",
@@ -1438,7 +1597,8 @@
       "sentences": [
         "His actions became a symbol of colossus in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "combustion",
@@ -1447,7 +1607,8 @@
       "sentences": [
         "The story illustrates how combustion can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "commendation",
@@ -1456,7 +1617,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked commendation."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "commensurate",
@@ -1465,7 +1627,8 @@
       "sentences": [
         "The commensurate student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "commodious",
@@ -1474,7 +1637,8 @@
       "sentences": [
         "It was a commodious act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "compensate",
@@ -1483,7 +1647,8 @@
       "sentences": [
         "Teachers often compensate students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "complacency",
@@ -1492,7 +1657,8 @@
       "sentences": [
         "This event shows the impact of complacency on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "complement",
@@ -1501,7 +1667,8 @@
       "sentences": [
         "The government decided to complement the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "compliant",
@@ -1510,7 +1677,8 @@
       "sentences": [
         "The compliant student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "complicit",
@@ -1519,7 +1687,8 @@
       "sentences": [
         "Her complicit attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "compliment",
@@ -1528,7 +1697,8 @@
       "sentences": [
         "The story illustrates how compliment can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "comprehensive",
@@ -1537,7 +1707,8 @@
       "sentences": [
         "Her comprehensive attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "compress",
@@ -1546,7 +1717,8 @@
       "sentences": [
         "Teachers often compress students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "compunction",
@@ -1555,7 +1727,8 @@
       "sentences": [
         "This event shows the impact of compunction on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "concede",
@@ -1564,7 +1737,8 @@
       "sentences": [
         "He tried to concede the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "conciliatory",
@@ -1573,7 +1747,8 @@
       "sentences": [
         "It was a conciliatory act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "concise",
@@ -1582,7 +1757,8 @@
       "sentences": [
         "It was a concise act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "concoct",
@@ -1591,7 +1767,8 @@
       "sentences": [
         "He tried to concoct the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "concomitant",
@@ -1600,7 +1777,8 @@
       "sentences": [
         "Her concomitant attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "concord",
@@ -1609,7 +1787,8 @@
       "sentences": [
         "This event shows the impact of concord on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "condolence",
@@ -1618,7 +1797,8 @@
       "sentences": [
         "The story illustrates how condolence can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "condone",
@@ -1627,7 +1807,8 @@
       "sentences": [
         "The government decided to condone the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "conduit",
@@ -1636,7 +1817,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked conduit."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "confection",
@@ -1645,7 +1827,8 @@
       "sentences": [
         "His actions became a symbol of confection in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "conformist",
@@ -1654,7 +1837,8 @@
       "sentences": [
         "This event shows the impact of conformist on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "confound",
@@ -1663,7 +1847,8 @@
       "sentences": [
         "He tried to confound the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "congeal",
@@ -1672,7 +1857,8 @@
       "sentences": [
         "He tried to congeal the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "congenial",
@@ -1681,7 +1867,8 @@
       "sentences": [
         "Her congenial attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "congregation",
@@ -1690,7 +1877,8 @@
       "sentences": [
         "The story illustrates how congregation can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "congruity",
@@ -1699,7 +1887,8 @@
       "sentences": [
         "His actions became a symbol of congruity in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "consecrate",
@@ -1708,7 +1897,8 @@
       "sentences": [
         "The government decided to consecrate the outdated law."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "consensus",
@@ -1717,7 +1907,8 @@
       "sentences": [
         "The story illustrates how consensus can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "consign",
@@ -1726,7 +1917,8 @@
       "sentences": [
         "He tried to consign the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "consolation",
@@ -1735,7 +1927,8 @@
       "sentences": [
         "His actions became a symbol of consolation in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "consonant",
@@ -1744,7 +1937,8 @@
       "sentences": [
         "The consonant student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "constituent",
@@ -1753,7 +1947,8 @@
       "sentences": [
         "This event shows the impact of constituent on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "constrain",
@@ -1762,7 +1957,8 @@
       "sentences": [
         "He tried to constrain the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "construe",
@@ -1771,7 +1967,8 @@
       "sentences": [
         "Teachers often construe students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "consummate",
@@ -1780,7 +1977,8 @@
       "sentences": [
         "Teachers often consummate students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "consumption",
@@ -1789,7 +1987,8 @@
       "sentences": [
         "His actions became a symbol of consumption in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "contemporaneous",
@@ -1798,7 +1997,8 @@
       "sentences": [
         "It was a contemporaneous act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "contentious",
@@ -1807,7 +2007,8 @@
       "sentences": [
         "The contentious student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "contravene",
@@ -1816,7 +2017,8 @@
       "sentences": [
         "He tried to contravene the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "contrite",
@@ -1825,7 +2027,8 @@
       "sentences": [
         "The contrite response surprised even the critics."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "contusion",
@@ -1834,7 +2037,8 @@
       "sentences": [
         "This event shows the impact of contusion on society."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "conundrum",
@@ -1843,7 +2047,8 @@
       "sentences": [
         "His actions became a symbol of conundrum in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "convene",
@@ -1852,7 +2057,8 @@
       "sentences": [
         "Teachers often convene students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "convivial",
@@ -1861,7 +2067,8 @@
       "sentences": [
         "Her convivial attitude impressed everyone in the room."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "convoluted",
@@ -1870,7 +2077,8 @@
       "sentences": [
         "The convoluted student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "copious",
@@ -1879,7 +2087,8 @@
       "sentences": [
         "It was a copious act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cordial",
@@ -1888,7 +2097,8 @@
       "sentences": [
         "The cordial student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "coronation",
@@ -1897,7 +2107,8 @@
       "sentences": [
         "His actions became a symbol of coronation in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "corpulence",
@@ -1906,7 +2117,8 @@
       "sentences": [
         "It was a corpulence act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "corroborate",
@@ -1915,7 +2127,8 @@
       "sentences": [
         "The team agreed to corroborate their strategy after the loss."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "corrosive",
@@ -1924,7 +2137,8 @@
       "sentences": [
         "The corrosive response surprised even the critics."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cosmopolitan",
@@ -1933,7 +2147,8 @@
       "sentences": [
         "It was a cosmopolitan act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "counteract",
@@ -1942,7 +2157,8 @@
       "sentences": [
         "The team agreed to counteract their strategy after the loss."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "covet",
@@ -1951,7 +2167,8 @@
       "sentences": [
         "Teachers often covet students who show exceptional effort."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "credulity",
@@ -1960,7 +2177,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked credulity."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "crescendo",
@@ -1969,7 +2187,8 @@
       "sentences": [
         "The story illustrates how crescendo can affect an entire community."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "criteria",
@@ -1978,7 +2197,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked criteria."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "culmination",
@@ -1987,7 +2207,8 @@
       "sentences": [
         "His actions became a symbol of culmination in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "culpable",
@@ -1996,7 +2217,8 @@
       "sentences": [
         "The culpable student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cultivate",
@@ -2005,7 +2227,8 @@
       "sentences": [
         "He tried to cultivate the problem before it grew worse."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cumulative",
@@ -2014,7 +2237,8 @@
       "sentences": [
         "It was a cumulative act that changed the course of history."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "high"
     },
     {
       "word": "cunning",
@@ -2023,7 +2247,8 @@
       "sentences": [
         "The cunning student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cupidity",
@@ -2032,7 +2257,8 @@
       "sentences": [
         "His actions became a symbol of cupidity in difficult times."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "cursory",
@@ -2041,7 +2267,8 @@
       "sentences": [
         "The cursory student volunteered to help others despite the risk."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "curt",
@@ -2050,7 +2277,8 @@
       "sentences": [
         "The curt response surprised even the critics."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "simple"
     },
     {
       "word": "curtail",
@@ -2059,7 +2287,8 @@
       "sentences": [
         "The team agreed to curtail their strategy after the loss."
       ],
-      "startingLetter": "C"
+      "startingLetter": "C",
+      "complexity": "medium"
     },
     {
       "word": "daunting",
@@ -2068,7 +2297,8 @@
       "sentences": [
         "It was a daunting act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dearth",
@@ -2077,7 +2307,8 @@
       "sentences": [
         "The story illustrates how dearth can affect an entire community."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "debacle",
@@ -2086,7 +2317,8 @@
       "sentences": [
         "His actions became a symbol of debacle in difficult times."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "debase",
@@ -2095,7 +2327,8 @@
       "sentences": [
         "Teachers often debase students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "debauch",
@@ -2104,7 +2337,8 @@
       "sentences": [
         "He tried to debauch the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "debunk",
@@ -2113,7 +2347,8 @@
       "sentences": [
         "The team agreed to debunk their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "decorous",
@@ -2122,7 +2357,8 @@
       "sentences": [
         "The decorous student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "decry",
@@ -2131,7 +2367,8 @@
       "sentences": [
         "Teachers often decry students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "deface",
@@ -2140,7 +2377,8 @@
       "sentences": [
         "He tried to deface the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "defamatory",
@@ -2149,7 +2387,8 @@
       "sentences": [
         "The defamatory response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "defer",
@@ -2158,7 +2397,8 @@
       "sentences": [
         "He tried to defer the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "deferential",
@@ -2167,7 +2407,8 @@
       "sentences": [
         "The deferential response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "deft",
@@ -2176,7 +2417,8 @@
       "sentences": [
         "It was a deft act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "defunct",
@@ -2185,7 +2427,8 @@
       "sentences": [
         "It was a defunct act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "delegate",
@@ -2194,7 +2437,8 @@
       "sentences": [
         "He tried to delegate the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "deleterious",
@@ -2203,7 +2447,8 @@
       "sentences": [
         "It was a deleterious act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "deliberate",
@@ -2212,7 +2457,8 @@
       "sentences": [
         "The deliberate student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "delineate",
@@ -2221,7 +2467,8 @@
       "sentences": [
         "The government decided to delineate the outdated law."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "demarcation",
@@ -2230,7 +2477,8 @@
       "sentences": [
         "This event shows the impact of demarcation on society."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "demean",
@@ -2239,7 +2487,8 @@
       "sentences": [
         "Teachers often demean students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "demure",
@@ -2248,7 +2497,8 @@
       "sentences": [
         "The demure student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "denigrate",
@@ -2257,7 +2507,8 @@
       "sentences": [
         "Teachers often denigrate students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "denounce",
@@ -2266,7 +2517,8 @@
       "sentences": [
         "He tried to denounce the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "deplore",
@@ -2275,7 +2527,8 @@
       "sentences": [
         "The government decided to deplore the outdated law."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "depravity",
@@ -2284,7 +2537,8 @@
       "sentences": [
         "His actions became a symbol of depravity in difficult times."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "deprecate",
@@ -2293,7 +2547,8 @@
       "sentences": [
         "The team agreed to deprecate their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "derelict",
@@ -2302,7 +2557,8 @@
       "sentences": [
         "The derelict response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "deride",
@@ -2311,7 +2567,8 @@
       "sentences": [
         "Teachers often deride students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "derivative",
@@ -2320,7 +2577,8 @@
       "sentences": [
         "It was a derivative act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "desecrate",
@@ -2329,7 +2587,8 @@
       "sentences": [
         "Teachers often desecrate students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "desiccated",
@@ -2338,7 +2597,8 @@
       "sentences": [
         "Her desiccated attitude impressed everyone in the room."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "desolate",
@@ -2347,7 +2607,8 @@
       "sentences": [
         "Her desolate attitude impressed everyone in the room."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "despondent",
@@ -2356,7 +2617,8 @@
       "sentences": [
         "The despondent student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "despot",
@@ -2365,7 +2627,8 @@
       "sentences": [
         "This event shows the impact of despot on society."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "destitute",
@@ -2374,7 +2637,8 @@
       "sentences": [
         "The destitute student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "deter",
@@ -2383,7 +2647,8 @@
       "sentences": [
         "The team agreed to deter their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "devious",
@@ -2392,7 +2657,8 @@
       "sentences": [
         "The devious student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dialect",
@@ -2401,7 +2667,8 @@
       "sentences": [
         "This event shows the impact of dialect on society."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "diaphanous",
@@ -2410,7 +2677,8 @@
       "sentences": [
         "The diaphanous response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "dilatory",
@@ -2419,7 +2687,8 @@
       "sentences": [
         "The dilatory student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "diligent",
@@ -2428,7 +2697,8 @@
       "sentences": [
         "It was a diligent act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "diminutive",
@@ -2437,7 +2707,8 @@
       "sentences": [
         "Her diminutive attitude impressed everyone in the room."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "dirge",
@@ -2446,7 +2717,8 @@
       "sentences": [
         "His actions became a symbol of dirge in difficult times."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "disavow",
@@ -2455,7 +2727,8 @@
       "sentences": [
         "He tried to disavow the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "discern",
@@ -2464,7 +2737,8 @@
       "sentences": [
         "The team agreed to discern their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "disclose",
@@ -2473,7 +2747,8 @@
       "sentences": [
         "The team agreed to disclose their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "discordant",
@@ -2482,7 +2757,8 @@
       "sentences": [
         "Her discordant attitude impressed everyone in the room."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "discrepancy",
@@ -2491,7 +2767,8 @@
       "sentences": [
         "His actions became a symbol of discrepancy in difficult times."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "discretion",
@@ -2500,7 +2777,8 @@
       "sentences": [
         "His actions became a symbol of discretion in difficult times."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "discursive",
@@ -2509,7 +2787,8 @@
       "sentences": [
         "The discursive response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "disgruntled",
@@ -2518,7 +2797,8 @@
       "sentences": [
         "The disgruntled student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "disheartened",
@@ -2527,7 +2807,8 @@
       "sentences": [
         "The disheartened student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "disparage",
@@ -2536,7 +2817,8 @@
       "sentences": [
         "Teachers often disparage students who show exceptional effort."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "disparate",
@@ -2545,7 +2827,8 @@
       "sentences": [
         "The disparate response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dispatch",
@@ -2554,7 +2837,8 @@
       "sentences": [
         "He tried to dispatch the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dispel",
@@ -2563,7 +2847,8 @@
       "sentences": [
         "The team agreed to dispel their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "disperse",
@@ -2572,7 +2857,8 @@
       "sentences": [
         "The team agreed to disperse their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "disrepute",
@@ -2581,7 +2867,8 @@
       "sentences": [
         "The novel explores the consequences of unchecked disrepute."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dissemble",
@@ -2590,7 +2877,8 @@
       "sentences": [
         "The team agreed to dissemble their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "disseminate",
@@ -2599,7 +2887,8 @@
       "sentences": [
         "He tried to disseminate the problem before it grew worse."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "dissonance",
@@ -2608,7 +2897,8 @@
       "sentences": [
         "This event shows the impact of dissonance on society."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "high"
     },
     {
       "word": "dissuade",
@@ -2617,7 +2907,8 @@
       "sentences": [
         "The team agreed to dissuade their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "distend",
@@ -2626,7 +2917,8 @@
       "sentences": [
         "The team agreed to distend their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dither",
@@ -2635,7 +2927,8 @@
       "sentences": [
         "The team agreed to dither their strategy after the loss."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "divine",
@@ -2644,7 +2937,8 @@
       "sentences": [
         "It was a divine act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "divisive",
@@ -2653,7 +2947,8 @@
       "sentences": [
         "The divisive response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "docile",
@@ -2662,7 +2957,8 @@
       "sentences": [
         "The docile response surprised even the critics."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "dogmatic",
@@ -2671,7 +2967,8 @@
       "sentences": [
         "It was a dogmatic act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dormant",
@@ -2680,7 +2977,8 @@
       "sentences": [
         "The dormant student volunteered to help others despite the risk."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     },
     {
       "word": "dour",
@@ -2689,7 +2987,8 @@
       "sentences": [
         "It was a dour act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "simple"
     },
     {
       "word": "dubious",
@@ -2698,7 +2997,8 @@
       "sentences": [
         "It was a dubious act that changed the course of history."
       ],
-      "startingLetter": "D"
+      "startingLetter": "D",
+      "complexity": "medium"
     }
   ]
 }
